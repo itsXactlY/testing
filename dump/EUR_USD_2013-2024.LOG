@@ -1,0 +1,5259 @@
+Data extraction completed in 16.26016211509704589844 seconds
+Number of rows retrieved: 3915425
+Data extraction & manipulation took:  16.26020908355713 seconds
+Starting Portfolio Value: 1000.00
+2023-10-04T00:00:00, ===Global level arguments===
+2023-10-04T00:00:00, init_cash : 1000
+2023-10-04T00:00:00, buy_prop : 1
+2023-10-04T00:00:00, sell_prop : 1
+2023-10-04T00:00:00, percent_sizer : 0.95
+2023-10-04T00:00:00, commission : 0.00075
+2023-10-04T00:00:00, stop_loss : 0
+2023-10-04T00:00:00, stop_trail : 0
+2023-10-04T00:00:00, take_profit : 0.1
+2023-10-04T00:00:00, allow_short : False
+Entering Long at 1.32772
+Take Profit 1 hit at 1.32964
+Exiting Long at 1.32964
+Entering Long at 1.3276
+Take Profit 1 hit at 1.32918
+Exiting Long at 1.32918
+Entering Long at 1.32706
+Take Profit 1 hit at 1.32846
+Exiting Long at 1.32846
+Entering Long at 1.326
+Take Profit 1 hit at 1.32752
+Exiting Long at 1.32752
+Entering Long at 1.32588
+Take Profit 1 hit at 1.32722
+Exiting Long at 1.32722
+Entering Long at 1.32618
+Take Profit 1 hit at 1.32758
+Exiting Long at 1.32758
+Entering Long at 1.32566
+Take Profit 1 hit at 1.32731
+Exiting Long at 1.32731
+Entering Long at 1.32554
+Take Profit 1 hit at 1.327
+Exiting Long at 1.327
+Entering Long at 1.32764
+Take Profit 1 hit at 1.32934
+Exiting Long at 1.32934
+Entering Long at 1.33266
+Take Profit 1 hit at 1.33405
+Exiting Long at 1.33405
+Entering Long at 1.3356
+Take Profit 1 hit at 1.33724
+Exiting Long at 1.33724
+Entering Long at 1.33916
+Take Profit 1 hit at 1.34126
+Exiting Long at 1.34126
+Entering Long at 1.3419
+Take Profit 1 hit at 1.34606
+Exiting Long at 1.34606
+Entering Long at 1.34533
+Take Profit 1 hit at 1.34704
+Exiting Long at 1.34704
+Entering Long at 1.34628
+Take Profit 1 hit at 1.34836
+Exiting Long at 1.34836
+Entering Long at 1.34658
+Take Profit 1 hit at 1.34828
+Exiting Long at 1.34828
+Entering Long at 1.34864
+Take Profit 1 hit at 1.3507
+Exiting Long at 1.3507
+Entering Long at 1.35432
+Take Profit 1 hit at 1.35572
+Exiting Long at 1.35572
+Entering Long at 1.35624
+Take Profit 1 hit at 1.3586
+Exiting Long at 1.3586
+Entering Long at 1.35605
+Take Profit 1 hit at 1.3575
+Exiting Long at 1.3575
+Entering Long at 1.35726
+Take Profit 1 hit at 1.35918
+Exiting Long at 1.35918
+Entering Long at 1.3575
+Take Profit 1 hit at 1.35904
+Exiting Long at 1.35904
+Entering Long at 1.3604
+Take Profit 1 hit at 1.36184
+Exiting Long at 1.36184
+Entering Long at 1.36172
+Take Profit 1 hit at 1.3632
+Exiting Long at 1.3632
+Entering Long at 1.36121
+Take Profit 1 hit at 1.36326
+Exiting Long at 1.36326
+Entering Long at 1.36487
+Take Profit 1 hit at 1.3665
+Exiting Long at 1.3665
+Entering Long at 1.36214
+Take Profit 1 hit at 1.36368
+Exiting Long at 1.36368
+Entering Long at 1.36806
+Stop Loss hit, exiting Long at 1.32658
+Entering Long at 1.32585
+Take Profit 1 hit at 1.3273
+Exiting Long at 1.3273
+Entering Long at 1.32548
+Take Profit 1 hit at 1.32688
+Exiting Long at 1.32688
+Entering Long at 1.32918
+Take Profit 1 hit at 1.33134
+Exiting Long at 1.33134
+Entering Long at 1.32718
+Stop Loss hit, exiting Long at 1.28594
+Entering Long at 1.28892
+Take Profit 1 hit at 1.291
+Exiting Long at 1.291
+Entering Long at 1.288
+Take Profit 1 hit at 1.28946
+Exiting Long at 1.28946
+Entering Long at 1.28845
+Take Profit 1 hit at 1.2898
+Exiting Long at 1.2898
+Entering Long at 1.29106
+Take Profit 1 hit at 1.29252
+Exiting Long at 1.29252
+Entering Long at 1.2906
+Take Profit 1 hit at 1.29198
+Exiting Long at 1.29198
+Entering Long at 1.29318
+Take Profit 1 hit at 1.29468
+Exiting Long at 1.29468
+Entering Long at 1.29404
+Take Profit 1 hit at 1.29678
+Exiting Long at 1.29678
+Entering Long at 1.29341
+Take Profit 1 hit at 1.29472
+Exiting Long at 1.29472
+Entering Long at 1.29484
+Take Profit 1 hit at 1.29648
+Exiting Long at 1.29648
+Entering Long at 1.29422
+Take Profit 1 hit at 1.29569
+Exiting Long at 1.29569
+Entering Long at 1.29608
+Take Profit 1 hit at 1.29872
+Exiting Long at 1.29872
+Entering Long at 1.29664
+Take Profit 1 hit at 1.29808
+Exiting Long at 1.29808
+Entering Long at 1.30052
+Take Profit 1 hit at 1.30309
+Exiting Long at 1.30309
+Entering Long at 1.30265
+Take Profit 1 hit at 1.30415
+Exiting Long at 1.30415
+Entering Long at 1.30334
+Take Profit 1 hit at 1.30596
+Exiting Long at 1.30596
+Entering Long at 1.30558
+Take Profit 1 hit at 1.30698
+Exiting Long at 1.30698
+Entering Long at 1.30514
+Take Profit 1 hit at 1.30758
+Exiting Long at 1.30758
+Entering Long at 1.30866
+Take Profit 1 hit at 1.31011
+Exiting Long at 1.31011
+Entering Long at 1.30968
+Take Profit 1 hit at 1.31135
+Exiting Long at 1.31135
+Entering Long at 1.31152
+Take Profit 1 hit at 1.31301
+Exiting Long at 1.31301
+Entering Long at 1.31186
+Take Profit 1 hit at 1.31338
+Exiting Long at 1.31338
+Entering Long at 1.31219
+Take Profit 1 hit at 1.31426
+Exiting Long at 1.31426
+Entering Long at 1.3187
+Take Profit 1 hit at 1.32101
+Exiting Long at 1.32101
+Entering Long at 1.32172
+Stop Loss hit, exiting Long at 1.28192
+Entering Long at 1.28304
+Take Profit 1 hit at 1.28433
+Exiting Long at 1.28433
+Entering Long at 1.2838
+Take Profit 1 hit at 1.28514
+Exiting Long at 1.28514
+Entering Long at 1.28434
+Take Profit 1 hit at 1.28564
+Exiting Long at 1.28564
+Entering Long at 1.28599
+Take Profit 1 hit at 1.28734
+Exiting Long at 1.28734
+Entering Long at 1.28862
+Take Profit 1 hit at 1.28996
+Exiting Long at 1.28996
+Entering Long at 1.28862
+Take Profit 1 hit at 1.29006
+Exiting Long at 1.29006
+Entering Long at 1.2884
+Take Profit 1 hit at 1.29082
+Exiting Long at 1.29082
+Entering Long at 1.28994
+Take Profit 1 hit at 1.29126
+Exiting Long at 1.29126
+Entering Long at 1.29036
+Take Profit 1 hit at 1.29178
+Exiting Long at 1.29178
+Entering Long at 1.29246
+Take Profit 1 hit at 1.2941
+Exiting Long at 1.2941
+Entering Long at 1.29246
+Take Profit 1 hit at 1.29382
+Exiting Long at 1.29382
+Entering Long at 1.29262
+Take Profit 1 hit at 1.29394
+Exiting Long at 1.29394
+Entering Long at 1.29248
+Take Profit 1 hit at 1.29418
+Exiting Long at 1.29418
+Entering Long at 1.2932
+Take Profit 1 hit at 1.29469
+Exiting Long at 1.29469
+Entering Long at 1.29304
+Take Profit 1 hit at 1.29474
+Exiting Long at 1.29474
+Entering Long at 1.29661
+Take Profit 1 hit at 1.29793
+Exiting Long at 1.29793
+Entering Long at 1.29579
+Take Profit 1 hit at 1.2972
+Exiting Long at 1.2972
+Entering Long at 1.29742
+Take Profit 1 hit at 1.29943
+Exiting Long at 1.29943
+Entering Long at 1.29633
+Take Profit 1 hit at 1.29772
+Exiting Long at 1.29772
+Entering Long at 1.30408
+Take Profit 1 hit at 1.30546
+Exiting Long at 1.30546
+Entering Long at 1.30462
+Take Profit 1 hit at 1.30654
+Exiting Long at 1.30654
+Entering Long at 1.30862
+Take Profit 1 hit at 1.30994
+Exiting Long at 1.30994
+Entering Long at 1.3077
+Take Profit 1 hit at 1.30906
+Exiting Long at 1.30906
+Entering Long at 1.30839
+Take Profit 1 hit at 1.30986
+Exiting Long at 1.30986
+Entering Long at 1.30888
+Take Profit 1 hit at 1.31019
+Exiting Long at 1.31019
+Entering Long at 1.31178
+Take Profit 1 hit at 1.31354
+Exiting Long at 1.31354
+Entering Long at 1.32416
+Take Profit 1 hit at 1.32588
+Exiting Long at 1.32588
+Entering Long at 1.32486
+Take Profit 1 hit at 1.32647
+Exiting Long at 1.32647
+Entering Long at 1.32443
+Take Profit 1 hit at 1.32628
+Exiting Long at 1.32628
+Entering Long at 1.3273
+Take Profit 1 hit at 1.32884
+Exiting Long at 1.32884
+Entering Long at 1.32652
+Take Profit 1 hit at 1.32834
+Exiting Long at 1.32834
+Entering Long at 1.32762
+Take Profit 1 hit at 1.32932
+Exiting Long at 1.32932
+Entering Long at 1.32717
+Take Profit 1 hit at 1.32893
+Exiting Long at 1.32893
+Entering Long at 1.32596
+Take Profit 1 hit at 1.32744
+Exiting Long at 1.32744
+Entering Long at 1.32842
+Take Profit 1 hit at 1.32982
+Exiting Long at 1.32982
+Entering Long at 1.33044
+Take Profit 1 hit at 1.33189
+Exiting Long at 1.33189
+Entering Long at 1.33078
+Take Profit 1 hit at 1.3323
+Exiting Long at 1.3323
+Entering Long at 1.33265
+Take Profit 1 hit at 1.33401
+Exiting Long at 1.33401
+Entering Long at 1.3347
+Take Profit 1 hit at 1.33654
+Exiting Long at 1.33654
+Entering Long at 1.33554
+Take Profit 1 hit at 1.33825
+Exiting Long at 1.33825
+Entering Long at 1.33597
+Take Profit 1 hit at 1.33735
+Exiting Long at 1.33735
+Entering Long at 1.33658
+Take Profit 1 hit at 1.33797
+Exiting Long at 1.33797
+Entering Long at 1.33618
+Take Profit 1 hit at 1.33752
+Exiting Long at 1.33752
+Entering Long at 1.33712
+Take Profit 1 hit at 1.33863
+Exiting Long at 1.33863
+Entering Long at 1.33945
+Take Profit 1 hit at 1.34103
+Exiting Long at 1.34103
+Entering Long at 1.33974
+Take Profit 1 hit at 1.34116
+Exiting Long at 1.34116
+Entering Long at 1.33905
+Take Profit 1 hit at 1.34054
+Exiting Long at 1.34054
+Entering Long at 1.33918
+Take Profit 1 hit at 1.34062
+Exiting Long at 1.34062
+Entering Long at 1.33932
+Take Profit 1 hit at 1.34072
+Exiting Long at 1.34072
+Entering Long at 1.33852
+Stop Loss hit, exiting Long at 1.29741
+Entering Long at 1.29768
+Take Profit 1 hit at 1.29982
+Exiting Long at 1.29982
+Entering Long at 1.3003
+Take Profit 1 hit at 1.30164
+Exiting Long at 1.30164
+Entering Long at 1.30142
+Take Profit 1 hit at 1.30278
+Exiting Long at 1.30278
+Entering Long at 1.31049
+Take Profit 1 hit at 1.312
+Exiting Long at 1.312
+Entering Long at 1.3122
+Take Profit 1 hit at 1.31369
+Exiting Long at 1.31369
+Entering Long at 1.31444
+Take Profit 1 hit at 1.31598
+Exiting Long at 1.31598
+Entering Long at 1.31615
+Take Profit 1 hit at 1.31783
+Exiting Long at 1.31783
+Entering Long at 1.31347
+Take Profit 1 hit at 1.31506
+Exiting Long at 1.31506
+Entering Long at 1.31108
+Take Profit 1 hit at 1.31242
+Exiting Long at 1.31242
+Entering Long at 1.31246
+Take Profit 1 hit at 1.3141
+Exiting Long at 1.3141
+Entering Long at 1.31344
+Take Profit 1 hit at 1.31492
+Exiting Long at 1.31492
+Entering Long at 1.31367
+Take Profit 1 hit at 1.31514
+Exiting Long at 1.31514
+Entering Long at 1.31523
+Take Profit 1 hit at 1.31705
+Exiting Long at 1.31705
+Entering Long at 1.3177
+Take Profit 1 hit at 1.31942
+Exiting Long at 1.31942
+Entering Long at 1.31857
+Take Profit 1 hit at 1.31991
+Exiting Long at 1.31991
+Entering Long at 1.32002
+Take Profit 1 hit at 1.32144
+Exiting Long at 1.32144
+Entering Long at 1.32186
+Take Profit 1 hit at 1.32402
+Exiting Long at 1.32402
+Entering Long at 1.3229
+Take Profit 1 hit at 1.32444
+Exiting Long at 1.32444
+Entering Long at 1.32228
+Take Profit 1 hit at 1.32366
+Exiting Long at 1.32366
+Entering Long at 1.32136
+Take Profit 1 hit at 1.32274
+Exiting Long at 1.32274
+Entering Long at 1.32044
+Take Profit 1 hit at 1.32208
+Exiting Long at 1.32208
+Entering Long at 1.32767
+Take Profit 1 hit at 1.3291
+Exiting Long at 1.3291
+Entering Long at 1.32784
+Take Profit 1 hit at 1.32923
+Exiting Long at 1.32923
+Entering Long at 1.32854
+Take Profit 1 hit at 1.33144
+Exiting Long at 1.33144
+Entering Long at 1.32778
+Take Profit 1 hit at 1.32926
+Exiting Long at 1.32926
+Entering Long at 1.33312
+Take Profit 1 hit at 1.33486
+Exiting Long at 1.33486
+Entering Long at 1.33562
+Take Profit 1 hit at 1.33717
+Exiting Long at 1.33717
+Entering Long at 1.33865
+Take Profit 1 hit at 1.33999
+Exiting Long at 1.33999
+Entering Long at 1.3382
+Take Profit 1 hit at 1.3398
+Exiting Long at 1.3398
+Entering Long at 1.34231
+Take Profit 1 hit at 1.34457
+Exiting Long at 1.34457
+Entering Long at 1.35142
+Take Profit 1 hit at 1.35292
+Exiting Long at 1.35292
+Entering Long at 1.35194
+Take Profit 1 hit at 1.35334
+Exiting Long at 1.35334
+Entering Long at 1.35259
+Take Profit 1 hit at 1.35414
+Exiting Long at 1.35414
+Entering Long at 1.35462
+Take Profit 1 hit at 1.35602
+Exiting Long at 1.35602
+Entering Long at 1.35533
+Take Profit 1 hit at 1.35742
+Exiting Long at 1.35742
+Entering Long at 1.35608
+Take Profit 1 hit at 1.35772
+Exiting Long at 1.35772
+Entering Long at 1.35888
+Take Profit 1 hit at 1.3604
+Exiting Long at 1.3604
+Entering Long at 1.36077
+Take Profit 1 hit at 1.36228
+Exiting Long at 1.36228
+Entering Long at 1.36192
+Take Profit 1 hit at 1.3635
+Exiting Long at 1.3635
+Entering Long at 1.3618
+Take Profit 1 hit at 1.36326
+Exiting Long at 1.36326
+Entering Long at 1.36356
+Take Profit 1 hit at 1.36496
+Exiting Long at 1.36496
+Entering Long at 1.36423
+Take Profit 1 hit at 1.36602
+Exiting Long at 1.36602
+Entering Long at 1.3664
+Take Profit 1 hit at 1.36785
+Exiting Long at 1.36785
+Entering Long at 1.3661
+Take Profit 1 hit at 1.3675
+Exiting Long at 1.3675
+Entering Long at 1.36726
+Take Profit 1 hit at 1.36876
+Exiting Long at 1.36876
+Entering Long at 1.36772
+Take Profit 1 hit at 1.36929
+Exiting Long at 1.36929
+Entering Long at 1.36934
+Take Profit 1 hit at 1.37448
+Exiting Long at 1.37448
+Entering Long at 1.37857
+Take Profit 1 hit at 1.38024
+Exiting Long at 1.38024
+Entering Long at 1.38042
+Take Profit 1 hit at 1.38192
+Exiting Long at 1.38192
+Entering Long at 1.37948
+Take Profit 1 hit at 1.3811
+Exiting Long at 1.3811
+Entering Long at 1.38018
+Take Profit 1 hit at 1.38185
+Exiting Long at 1.38185
+Entering Long at 1.38113
+Take Profit 1 hit at 1.3826
+Exiting Long at 1.3826
+Entering Long at 1.38094
+Take Profit 1 hit at 1.38242
+Exiting Long at 1.38242
+Entering Long at 1.38035
+Stop Loss hit, exiting Long at 1.33748
+Entering Long at 1.33721
+Take Profit 1 hit at 1.33862
+Exiting Long at 1.33862
+Entering Long at 1.34194
+Take Profit 1 hit at 1.34338
+Exiting Long at 1.34338
+Entering Long at 1.33761
+Take Profit 1 hit at 1.33948
+Exiting Long at 1.33948
+Entering Long at 1.33476
+Take Profit 1 hit at 1.33616
+Exiting Long at 1.33616
+Entering Long at 1.3352
+Take Profit 1 hit at 1.33665
+Exiting Long at 1.33665
+Entering Long at 1.33636
+Take Profit 1 hit at 1.33776
+Exiting Long at 1.33776
+Entering Long at 1.3392
+Take Profit 1 hit at 1.34055
+Exiting Long at 1.34055
+Entering Long at 1.34058
+Take Profit 1 hit at 1.34234
+Exiting Long at 1.34234
+Entering Long at 1.34321
+Take Profit 1 hit at 1.34467
+Exiting Long at 1.34467
+Entering Long at 1.34343
+Take Profit 1 hit at 1.34493
+Exiting Long at 1.34493
+Entering Long at 1.34446
+Take Profit 1 hit at 1.34666
+Exiting Long at 1.34666
+Entering Long at 1.34455
+Take Profit 1 hit at 1.3459
+Exiting Long at 1.3459
+Entering Long at 1.34579
+Take Profit 1 hit at 1.34773
+Exiting Long at 1.34773
+Entering Long at 1.34804
+Take Profit 1 hit at 1.35034
+Exiting Long at 1.35034
+Entering Long at 1.34815
+Take Profit 1 hit at 1.34952
+Exiting Long at 1.34952
+Entering Long at 1.3492
+Take Profit 1 hit at 1.3512
+Exiting Long at 1.3512
+Entering Long at 1.3503
+Take Profit 1 hit at 1.352
+Exiting Long at 1.352
+Entering Long at 1.35238
+Take Profit 1 hit at 1.35417
+Exiting Long at 1.35417
+Entering Long at 1.35106
+Take Profit 1 hit at 1.35273
+Exiting Long at 1.35273
+Entering Long at 1.35321
+Take Profit 1 hit at 1.35459
+Exiting Long at 1.35459
+Entering Long at 1.35291
+Take Profit 1 hit at 1.35464
+Exiting Long at 1.35464
+Entering Long at 1.35478
+Take Profit 1 hit at 1.35621
+Exiting Long at 1.35621
+Entering Long at 1.35545
+Take Profit 1 hit at 1.3571
+Exiting Long at 1.3571
+Entering Long at 1.35454
+Take Profit 1 hit at 1.356
+Exiting Long at 1.356
+Entering Long at 1.35698
+Take Profit 1 hit at 1.3591
+Exiting Long at 1.3591
+Entering Long at 1.35876
+Take Profit 1 hit at 1.3607
+Exiting Long at 1.3607
+Entering Long at 1.3591
+Take Profit 1 hit at 1.36054
+Exiting Long at 1.36054
+Entering Long at 1.35908
+Take Profit 1 hit at 1.36066
+Exiting Long at 1.36066
+Entering Long at 1.35916
+Take Profit 1 hit at 1.36052
+Exiting Long at 1.36052
+Entering Long at 1.35994
+Take Profit 1 hit at 1.36138
+Exiting Long at 1.36138
+Entering Long at 1.36152
+Take Profit 1 hit at 1.36332
+Exiting Long at 1.36332
+Entering Long at 1.3619
+Take Profit 1 hit at 1.36338
+Exiting Long at 1.36338
+Entering Long at 1.36642
+Take Profit 1 hit at 1.36851
+Exiting Long at 1.36851
+Entering Long at 1.37096
+Take Profit 1 hit at 1.37238
+Exiting Long at 1.37238
+Entering Long at 1.37154
+Take Profit 1 hit at 1.37294
+Exiting Long at 1.37294
+Entering Long at 1.37168
+Take Profit 1 hit at 1.37403
+Exiting Long at 1.37403
+Entering Long at 1.3735
+Take Profit 1 hit at 1.37576
+Exiting Long at 1.37576
+Entering Long at 1.37552
+Take Profit 1 hit at 1.37693
+Exiting Long at 1.37693
+Entering Long at 1.37698
+Take Profit 1 hit at 1.37862
+Exiting Long at 1.37862
+Entering Long at 1.37813
+Take Profit 1 hit at 1.3796
+Exiting Long at 1.3796
+Entering Long at 1.37905
+Take Profit 1 hit at 1.38096
+Exiting Long at 1.38096
+Entering Long at 1.36796
+Take Profit 1 hit at 1.36942
+Exiting Long at 1.36942
+Entering Long at 1.36716
+Take Profit 1 hit at 1.36864
+Exiting Long at 1.36864
+Entering Long at 1.3684
+Take Profit 1 hit at 1.36983
+Exiting Long at 1.36983
+Entering Long at 1.36971
+Take Profit 1 hit at 1.37142
+Exiting Long at 1.37142
+Entering Long at 1.37371
+Take Profit 1 hit at 1.37674
+Exiting Long at 1.37674
+Entering Long at 1.38376
+Take Profit 1 hit at 1.38542
+Exiting Long at 1.38542
+Entering Long at 1.38594
+Take Profit 1 hit at 1.38748
+Exiting Long at 1.38748
+Entering Long at 1.38962
+Take Profit 1 hit at 1.39104
+Exiting Long at 1.39104
+Entering Long at 1.39064
+Take Profit 1 hit at 1.39382
+Exiting Long at 1.39382
+Entering Long at 1.39482
+Take Profit 1 hit at 1.39695
+Exiting Long at 1.39695
+Entering Long at 1.3926
+Stop Loss hit, exiting Long at 1.35034
+Entering Long at 1.35827
+Take Profit 1 hit at 1.36038
+Exiting Long at 1.36038
+Entering Long at 1.36596
+Take Profit 1 hit at 1.36746
+Exiting Long at 1.36746
+Entering Long at 1.36342
+Take Profit 1 hit at 1.36482
+Exiting Long at 1.36482
+Entering Long at 1.36457
+Take Profit 1 hit at 1.36622
+Exiting Long at 1.36622
+Entering Long at 1.3654
+Take Profit 1 hit at 1.36679
+Exiting Long at 1.36679
+Entering Long at 1.36906
+Stop Loss hit, exiting Long at 1.32766
+Entering Long at 1.32844
+Stop Loss hit, exiting Long at 1.28805
+Entering Long at 1.2878
+Take Profit 1 hit at 1.28928
+Exiting Long at 1.28928
+Entering Long at 1.28822
+Take Profit 1 hit at 1.28972
+Exiting Long at 1.28972
+Entering Long at 1.28896
+Take Profit 1 hit at 1.29032
+Exiting Long at 1.29032
+Entering Long at 1.29068
+Take Profit 1 hit at 1.29238
+Exiting Long at 1.29238
+Entering Long at 1.29386
+Take Profit 1 hit at 1.29524
+Exiting Long at 1.29524
+Entering Long at 1.29428
+Take Profit 1 hit at 1.29566
+Exiting Long at 1.29566
+Entering Long at 1.29616
+Take Profit 1 hit at 1.29776
+Exiting Long at 1.29776
+Entering Long at 1.29642
+Take Profit 1 hit at 1.2978
+Exiting Long at 1.2978
+Entering Long at 1.29584
+Stop Loss hit, exiting Long at 1.25408
+Entering Long at 1.25172
+Take Profit 1 hit at 1.25298
+Exiting Long at 1.25298
+Entering Long at 1.25549
+Take Profit 1 hit at 1.25675
+Exiting Long at 1.25675
+Entering Long at 1.26489
+Take Profit 1 hit at 1.26618
+Exiting Long at 1.26618
+Entering Long at 1.26308
+Take Profit 1 hit at 1.26438
+Exiting Long at 1.26438
+Entering Long at 1.26244
+Take Profit 1 hit at 1.26434
+Exiting Long at 1.26434
+Entering Long at 1.26354
+Take Profit 1 hit at 1.26492
+Exiting Long at 1.26492
+Entering Long at 1.26532
+Take Profit 1 hit at 1.26678
+Exiting Long at 1.26678
+Entering Long at 1.2664
+Take Profit 1 hit at 1.26775
+Exiting Long at 1.26775
+Entering Long at 1.26692
+Take Profit 1 hit at 1.26821
+Exiting Long at 1.26821
+Entering Long at 1.26564
+Take Profit 1 hit at 1.26696
+Exiting Long at 1.26696
+Entering Long at 1.26732
+Take Profit 1 hit at 1.26922
+Exiting Long at 1.26922
+Entering Long at 1.27308
+Take Profit 1 hit at 1.27454
+Exiting Long at 1.27454
+Entering Long at 1.2734
+Take Profit 1 hit at 1.27472
+Exiting Long at 1.27472
+Entering Long at 1.27433
+Take Profit 1 hit at 1.27562
+Exiting Long at 1.27562
+Entering Long at 1.27662
+Take Profit 1 hit at 1.27806
+Exiting Long at 1.27806
+Entering Long at 1.27618
+Take Profit 1 hit at 1.27748
+Exiting Long at 1.27748
+Entering Long at 1.27475
+Take Profit 1 hit at 1.27622
+Exiting Long at 1.27622
+Entering Long at 1.2795
+Take Profit 1 hit at 1.28115
+Exiting Long at 1.28115
+Entering Long at 1.28254
+Take Profit 1 hit at 1.28394
+Exiting Long at 1.28394
+Entering Long at 1.28288
+Stop Loss hit, exiting Long at 1.24373
+Entering Long at 1.23782
+Take Profit 1 hit at 1.23924
+Exiting Long at 1.23924
+Entering Long at 1.23805
+Take Profit 1 hit at 1.23932
+Exiting Long at 1.23932
+Entering Long at 1.23987
+Take Profit 1 hit at 1.24174
+Exiting Long at 1.24174
+Entering Long at 1.24365
+Take Profit 1 hit at 1.24491
+Exiting Long at 1.24491
+Entering Long at 1.2457
+Take Profit 1 hit at 1.24704
+Exiting Long at 1.24704
+Entering Long at 1.2461
+Take Profit 1 hit at 1.24736
+Exiting Long at 1.24736
+Entering Long at 1.24752
+Take Profit 1 hit at 1.24916
+Exiting Long at 1.24916
+Entering Long at 1.24881
+Take Profit 1 hit at 1.25152
+Exiting Long at 1.25152
+Entering Long at 1.2525
+Take Profit 1 hit at 1.25376
+Exiting Long at 1.25376
+Entering Long at 1.2525
+Take Profit 1 hit at 1.25383
+Exiting Long at 1.25383
+Entering Long at 1.25423
+Take Profit 1 hit at 1.25556
+Exiting Long at 1.25556
+Entering Long at 1.25547
+Take Profit 1 hit at 1.258
+Exiting Long at 1.258
+Entering Long at 1.25442
+Take Profit 1 hit at 1.25632
+Exiting Long at 1.25632
+Entering Long at 1.25356
+Take Profit 1 hit at 1.25484
+Exiting Long at 1.25484
+Entering Long at 1.25207
+Take Profit 1 hit at 1.25345
+Exiting Long at 1.25345
+Entering Long at 1.2553
+Take Profit 1 hit at 1.25656
+Exiting Long at 1.25656
+Entering Long at 1.25504
+Take Profit 1 hit at 1.25636
+Exiting Long at 1.25636
+Entering Long at 1.25548
+Stop Loss hit, exiting Long at 1.2173
+Entering Long at 1.21872
+Take Profit 1 hit at 1.22
+Exiting Long at 1.22
+Entering Long at 1.21988
+Take Profit 1 hit at 1.2214
+Exiting Long at 1.2214
+Entering Long at 1.22028
+Take Profit 1 hit at 1.22241
+Exiting Long at 1.22241
+Entering Long at 1.22194
+Stop Loss hit, exiting Long at 1.18528
+Entering Long at 1.18458
+Take Profit 1 hit at 1.18577
+Exiting Long at 1.18577
+Entering Long at 1.18318
+Take Profit 1 hit at 1.1844
+Exiting Long at 1.1844
+Entering Long at 1.18381
+Take Profit 1 hit at 1.18508
+Exiting Long at 1.18508
+Entering Long at 1.18622
+Stop Loss hit, exiting Long at 1.15044
+Entering Long at 1.15372
+Take Profit 1 hit at 1.15495
+Exiting Long at 1.15495
+Entering Long at 1.15388
+Take Profit 1 hit at 1.15517
+Exiting Long at 1.15517
+Entering Long at 1.15693
+Take Profit 1 hit at 1.15814
+Exiting Long at 1.15814
+Entering Long at 1.15631
+Take Profit 1 hit at 1.15754
+Exiting Long at 1.15754
+Entering Long at 1.15966
+Take Profit 1 hit at 1.16096
+Exiting Long at 1.16096
+Entering Long at 1.1604
+Take Profit 1 hit at 1.16162
+Exiting Long at 1.16162
+Entering Long at 1.1623
+Take Profit 1 hit at 1.16356
+Exiting Long at 1.16356
+Entering Long at 1.16214
+Take Profit 1 hit at 1.16332
+Exiting Long at 1.16332
+Entering Long at 1.15789
+Take Profit 1 hit at 1.15967
+Exiting Long at 1.15967
+Entering Long at 1.16653
+Stop Loss hit, exiting Long at 1.1313
+Entering Long at 1.12068
+Take Profit 1 hit at 1.12198
+Exiting Long at 1.12198
+Entering Long at 1.12404
+Take Profit 1 hit at 1.12526
+Exiting Long at 1.12526
+Entering Long at 1.12438
+Take Profit 1 hit at 1.12572
+Exiting Long at 1.12572
+Entering Long at 1.12275
+Take Profit 1 hit at 1.12413
+Exiting Long at 1.12413
+Entering Long at 1.12454
+Take Profit 1 hit at 1.12584
+Exiting Long at 1.12584
+Entering Long at 1.12589
+Take Profit 1 hit at 1.12752
+Exiting Long at 1.12752
+Entering Long at 1.12648
+Take Profit 1 hit at 1.12766
+Exiting Long at 1.12766
+Entering Long at 1.12956
+Take Profit 1 hit at 1.13142
+Exiting Long at 1.13142
+Entering Long at 1.13656
+Take Profit 1 hit at 1.13776
+Exiting Long at 1.13776
+Entering Long at 1.13747
+Take Profit 1 hit at 1.13889
+Exiting Long at 1.13889
+Entering Long at 1.14793
+Take Profit 1 hit at 1.14931
+Exiting Long at 1.14931
+Entering Long at 1.14727
+Take Profit 1 hit at 1.14846
+Exiting Long at 1.14846
+Entering Long at 1.14753
+Stop Loss hit, exiting Long at 1.11304
+Entering Long at 1.11336
+Stop Loss hit, exiting Long at 1.07984
+Entering Long at 1.07988
+Take Profit 1 hit at 1.08129
+Exiting Long at 1.08129
+Entering Long at 1.08011
+Stop Loss hit, exiting Long at 1.04668
+Entering Long at 1.04891
+Take Profit 1 hit at 1.05032
+Exiting Long at 1.05032
+Entering Long at 1.0492
+Take Profit 1 hit at 1.05036
+Exiting Long at 1.05036
+Entering Long at 1.05234
+Take Profit 1 hit at 1.05396
+Exiting Long at 1.05396
+Entering Long at 1.05158
+Take Profit 1 hit at 1.05306
+Exiting Long at 1.05306
+Entering Long at 1.05349
+Take Profit 1 hit at 1.0553
+Exiting Long at 1.0553
+Entering Long at 1.05291
+Take Profit 1 hit at 1.05408
+Exiting Long at 1.05408
+Entering Long at 1.05428
+Take Profit 1 hit at 1.05628
+Exiting Long at 1.05628
+Entering Long at 1.05724
+Take Profit 1 hit at 1.05841
+Exiting Long at 1.05841
+Entering Long at 1.05916
+Take Profit 1 hit at 1.06056
+Exiting Long at 1.06056
+Entering Long at 1.05904
+Take Profit 1 hit at 1.0604
+Exiting Long at 1.0604
+Entering Long at 1.05754
+Take Profit 1 hit at 1.05865
+Exiting Long at 1.05865
+Entering Long at 1.06048
+Take Profit 1 hit at 1.06194
+Exiting Long at 1.06194
+Entering Long at 1.05951
+Take Profit 1 hit at 1.06062
+Exiting Long at 1.06062
+Entering Long at 1.0625
+Take Profit 1 hit at 1.06369
+Exiting Long at 1.06369
+Entering Long at 1.06388
+Take Profit 1 hit at 1.06626
+Exiting Long at 1.06626
+Entering Long at 1.06426
+Take Profit 1 hit at 1.06556
+Exiting Long at 1.06556
+Entering Long at 1.07247
+Take Profit 1 hit at 1.07482
+Exiting Long at 1.07482
+Entering Long at 1.08515
+Take Profit 1 hit at 1.0867
+Exiting Long at 1.0867
+Entering Long at 1.08656
+Take Profit 1 hit at 1.08792
+Exiting Long at 1.08792
+Entering Long at 1.083
+Take Profit 1 hit at 1.08418
+Exiting Long at 1.08418
+Entering Long at 1.08561
+Take Profit 1 hit at 1.08684
+Exiting Long at 1.08684
+Entering Long at 1.09036
+Take Profit 1 hit at 1.09169
+Exiting Long at 1.09169
+Entering Long at 1.09272
+Take Profit 1 hit at 1.09451
+Exiting Long at 1.09451
+Entering Long at 1.09492
+Take Profit 1 hit at 1.0961
+Exiting Long at 1.0961
+Entering Long at 1.09523
+Take Profit 1 hit at 1.0964
+Exiting Long at 1.0964
+Entering Long at 1.09584
+Take Profit 1 hit at 1.09705
+Exiting Long at 1.09705
+Entering Long at 1.09959
+Take Profit 1 hit at 1.101
+Exiting Long at 1.101
+Entering Long at 1.1022
+Take Profit 1 hit at 1.1034
+Exiting Long at 1.1034
+Entering Long at 1.10108
+Take Profit 1 hit at 1.10232
+Exiting Long at 1.10232
+Entering Long at 1.0992
+Take Profit 1 hit at 1.10035
+Exiting Long at 1.10035
+Entering Long at 1.10004
+Take Profit 1 hit at 1.10124
+Exiting Long at 1.10124
+Entering Long at 1.10168
+Stop Loss hit, exiting Long at 1.06831
+Entering Long at 1.06492
+Take Profit 1 hit at 1.06607
+Exiting Long at 1.06607
+Entering Long at 1.06617
+Take Profit 1 hit at 1.0675
+Exiting Long at 1.0675
+Entering Long at 1.0667
+Take Profit 1 hit at 1.06786
+Exiting Long at 1.06786
+Entering Long at 1.0671
+Take Profit 1 hit at 1.06822
+Exiting Long at 1.06822
+Entering Long at 1.0675
+Take Profit 1 hit at 1.06886
+Exiting Long at 1.06886
+Entering Long at 1.06644
+Take Profit 1 hit at 1.0677
+Exiting Long at 1.0677
+Entering Long at 1.06746
+Take Profit 1 hit at 1.06857
+Exiting Long at 1.06857
+Entering Long at 1.06806
+Take Profit 1 hit at 1.0696
+Exiting Long at 1.0696
+Entering Long at 1.0716
+Take Profit 1 hit at 1.07308
+Exiting Long at 1.07308
+Entering Long at 1.07109
+Take Profit 1 hit at 1.07267
+Exiting Long at 1.07267
+Entering Long at 1.07354
+Take Profit 1 hit at 1.07462
+Exiting Long at 1.07462
+Entering Long at 1.07732
+Take Profit 1 hit at 1.07848
+Exiting Long at 1.07848
+Entering Long at 1.0772
+Take Profit 1 hit at 1.07852
+Exiting Long at 1.07852
+Entering Long at 1.07501
+Take Profit 1 hit at 1.07633
+Exiting Long at 1.07633
+Entering Long at 1.07893
+Take Profit 1 hit at 1.08035
+Exiting Long at 1.08035
+Entering Long at 1.08114
+Take Profit 1 hit at 1.08266
+Exiting Long at 1.08266
+Entering Long at 1.07952
+Take Profit 1 hit at 1.08063
+Exiting Long at 1.08063
+Entering Long at 1.0781
+Take Profit 1 hit at 1.07969
+Exiting Long at 1.07969
+Entering Long at 1.08104
+Take Profit 1 hit at 1.08216
+Exiting Long at 1.08216
+Entering Long at 1.08265
+Take Profit 1 hit at 1.0838
+Exiting Long at 1.0838
+Entering Long at 1.08619
+Take Profit 1 hit at 1.08744
+Exiting Long at 1.08744
+Entering Long at 1.08596
+Take Profit 1 hit at 1.08712
+Exiting Long at 1.08712
+Entering Long at 1.08602
+Take Profit 1 hit at 1.08737
+Exiting Long at 1.08737
+Entering Long at 1.08652
+Take Profit 1 hit at 1.08766
+Exiting Long at 1.08766
+Entering Long at 1.0877
+Take Profit 1 hit at 1.0891
+Exiting Long at 1.0891
+Entering Long at 1.09056
+Take Profit 1 hit at 1.09172
+Exiting Long at 1.09172
+Entering Long at 1.09234
+Take Profit 1 hit at 1.09367
+Exiting Long at 1.09367
+Entering Long at 1.09458
+Take Profit 1 hit at 1.0964
+Exiting Long at 1.0964
+Entering Long at 1.09624
+Take Profit 1 hit at 1.09739
+Exiting Long at 1.09739
+Entering Long at 1.098
+Take Profit 1 hit at 1.09924
+Exiting Long at 1.09924
+Entering Long at 1.09898
+Take Profit 1 hit at 1.10015
+Exiting Long at 1.10015
+Entering Long at 1.10104
+Take Profit 1 hit at 1.10378
+Exiting Long at 1.10378
+Entering Long at 1.11366
+Take Profit 1 hit at 1.11502
+Exiting Long at 1.11502
+Entering Long at 1.11652
+Take Profit 1 hit at 1.11802
+Exiting Long at 1.11802
+Entering Long at 1.11856
+Take Profit 1 hit at 1.12035
+Exiting Long at 1.12035
+Entering Long at 1.11895
+Take Profit 1 hit at 1.12014
+Exiting Long at 1.12014
+Entering Long at 1.11751
+Take Profit 1 hit at 1.11877
+Exiting Long at 1.11877
+Entering Long at 1.11646
+Take Profit 1 hit at 1.1178
+Exiting Long at 1.1178
+Entering Long at 1.11966
+Take Profit 1 hit at 1.1208
+Exiting Long at 1.1208
+Entering Long at 1.12147
+Take Profit 1 hit at 1.12286
+Exiting Long at 1.12286
+Entering Long at 1.12365
+Take Profit 1 hit at 1.12507
+Exiting Long at 1.12507
+Entering Long at 1.12583
+Take Profit 1 hit at 1.12711
+Exiting Long at 1.12711
+Entering Long at 1.1255
+Take Profit 1 hit at 1.12679
+Exiting Long at 1.12679
+Entering Long at 1.12731
+Take Profit 1 hit at 1.12851
+Exiting Long at 1.12851
+Entering Long at 1.13261
+Take Profit 1 hit at 1.13396
+Exiting Long at 1.13396
+Entering Long at 1.13412
+Take Profit 1 hit at 1.13534
+Exiting Long at 1.13534
+Entering Long at 1.13514
+Take Profit 1 hit at 1.13644
+Exiting Long at 1.13644
+Entering Long at 1.13524
+Take Profit 1 hit at 1.13647
+Exiting Long at 1.13647
+Entering Long at 1.13754
+Take Profit 1 hit at 1.13901
+Exiting Long at 1.13901
+Entering Long at 1.13465
+Take Profit 1 hit at 1.13616
+Exiting Long at 1.13616
+Entering Long at 1.13568
+Take Profit 1 hit at 1.13703
+Exiting Long at 1.13703
+Entering Long at 1.13632
+Take Profit 1 hit at 1.1375
+Exiting Long at 1.1375
+Entering Long at 1.13867
+Take Profit 1 hit at 1.14087
+Exiting Long at 1.14087
+Entering Long at 1.14268
+Take Profit 1 hit at 1.14392
+Exiting Long at 1.14392
+Entering Long at 1.14181
+Take Profit 1 hit at 1.14324
+Exiting Long at 1.14324
+Entering Long at 1.14173
+Take Profit 1 hit at 1.14302
+Exiting Long at 1.14302
+Entering Long at 1.14388
+Take Profit 1 hit at 1.1452
+Exiting Long at 1.1452
+Entering Long at 1.14479
+Stop Loss hit, exiting Long at 1.10994
+Entering Long at 1.10956
+Take Profit 1 hit at 1.11126
+Exiting Long at 1.11126
+Entering Long at 1.11018
+Take Profit 1 hit at 1.11162
+Exiting Long at 1.11162
+Entering Long at 1.11181
+Take Profit 1 hit at 1.11352
+Exiting Long at 1.11352
+Entering Long at 1.11046
+Take Profit 1 hit at 1.11192
+Exiting Long at 1.11192
+Entering Long at 1.10972
+Take Profit 1 hit at 1.11086
+Exiting Long at 1.11086
+Entering Long at 1.10823
+Take Profit 1 hit at 1.10955
+Exiting Long at 1.10955
+Entering Long at 1.11298
+Take Profit 1 hit at 1.11582
+Exiting Long at 1.11582
+Entering Long at 1.11456
+Take Profit 1 hit at 1.1161
+Exiting Long at 1.1161
+Entering Long at 1.11763
+Stop Loss hit, exiting Long at 1.08392
+Entering Long at 1.08554
+Take Profit 1 hit at 1.08698
+Exiting Long at 1.08698
+Entering Long at 1.08856
+Take Profit 1 hit at 1.08973
+Exiting Long at 1.08973
+Entering Long at 1.08988
+Take Profit 1 hit at 1.09112
+Exiting Long at 1.09112
+Entering Long at 1.09074
+Take Profit 1 hit at 1.09198
+Exiting Long at 1.09198
+Entering Long at 1.09168
+Take Profit 1 hit at 1.093
+Exiting Long at 1.093
+Entering Long at 1.09148
+Take Profit 1 hit at 1.09274
+Exiting Long at 1.09274
+Entering Long at 1.09426
+Take Profit 1 hit at 1.0954
+Exiting Long at 1.0954
+Entering Long at 1.0935
+Take Profit 1 hit at 1.09489
+Exiting Long at 1.09489
+Entering Long at 1.09628
+Take Profit 1 hit at 1.09828
+Exiting Long at 1.09828
+Entering Long at 1.09664
+Take Profit 1 hit at 1.09776
+Exiting Long at 1.09776
+Entering Long at 1.09838
+Take Profit 1 hit at 1.09951
+Exiting Long at 1.09951
+Entering Long at 1.09679
+Take Profit 1 hit at 1.09795
+Exiting Long at 1.09795
+Entering Long at 1.09971
+Take Profit 1 hit at 1.10242
+Exiting Long at 1.10242
+Entering Long at 1.11662
+Take Profit 1 hit at 1.11827
+Exiting Long at 1.11827
+Entering Long at 1.11714
+Take Profit 1 hit at 1.11834
+Exiting Long at 1.11834
+Entering Long at 1.11467
+Take Profit 1 hit at 1.11605
+Exiting Long at 1.11605
+Entering Long at 1.1124
+Take Profit 1 hit at 1.11369
+Exiting Long at 1.11369
+Entering Long at 1.11342
+Take Profit 1 hit at 1.11523
+Exiting Long at 1.11523
+Entering Long at 1.12554
+Take Profit 1 hit at 1.12672
+Exiting Long at 1.12672
+Entering Long at 1.12594
+Take Profit 1 hit at 1.12708
+Exiting Long at 1.12708
+Entering Long at 1.12667
+Take Profit 1 hit at 1.1285
+Exiting Long at 1.1285
+Entering Long at 1.13356
+Take Profit 1 hit at 1.13478
+Exiting Long at 1.13478
+Entering Long at 1.12968
+Take Profit 1 hit at 1.1314
+Exiting Long at 1.1314
+Entering Long at 1.12634
+Take Profit 1 hit at 1.12772
+Exiting Long at 1.12772
+Entering Long at 1.12454
+Take Profit 1 hit at 1.12635
+Exiting Long at 1.12635
+Entering Long at 1.11176
+Take Profit 1 hit at 1.11294
+Exiting Long at 1.11294
+Entering Long at 1.11088
+Take Profit 1 hit at 1.11254
+Exiting Long at 1.11254
+Entering Long at 1.11126
+Take Profit 1 hit at 1.11254
+Exiting Long at 1.11254
+Entering Long at 1.11024
+Take Profit 1 hit at 1.11266
+Exiting Long at 1.11266
+Entering Long at 1.11304
+Take Profit 1 hit at 1.11437
+Exiting Long at 1.11437
+Entering Long at 1.11417
+Take Profit 1 hit at 1.11617
+Exiting Long at 1.11617
+Entering Long at 1.12893
+Take Profit 1 hit at 1.1326
+Exiting Long at 1.1326
+Entering Long at 1.13156
+Take Profit 1 hit at 1.13322
+Exiting Long at 1.13322
+Entering Long at 1.13072
+Take Profit 1 hit at 1.13194
+Exiting Long at 1.13194
+Entering Long at 1.12977
+Take Profit 1 hit at 1.13122
+Exiting Long at 1.13122
+Entering Long at 1.13284
+Take Profit 1 hit at 1.13418
+Exiting Long at 1.13418
+Entering Long at 1.12984
+Take Profit 1 hit at 1.13104
+Exiting Long at 1.13104
+Entering Long at 1.13176
+Take Profit 1 hit at 1.13364
+Exiting Long at 1.13364
+Entering Long at 1.12888
+Take Profit 1 hit at 1.13036
+Exiting Long at 1.13036
+Entering Long at 1.13108
+Take Profit 1 hit at 1.1323
+Exiting Long at 1.1323
+Entering Long at 1.13201
+Take Profit 1 hit at 1.13336
+Exiting Long at 1.13336
+Entering Long at 1.13314
+Take Profit 1 hit at 1.13434
+Exiting Long at 1.13434
+Entering Long at 1.13546
+Take Profit 1 hit at 1.13667
+Exiting Long at 1.13667
+Entering Long at 1.13596
+Take Profit 1 hit at 1.13712
+Exiting Long at 1.13712
+Entering Long at 1.13588
+Take Profit 1 hit at 1.13737
+Exiting Long at 1.13737
+Entering Long at 1.13982
+Take Profit 1 hit at 1.14119
+Exiting Long at 1.14119
+Entering Long at 1.13916
+Take Profit 1 hit at 1.14158
+Exiting Long at 1.14158
+Entering Long at 1.1398
+Take Profit 1 hit at 1.14316
+Exiting Long at 1.14316
+Entering Long at 1.13492
+Take Profit 1 hit at 1.13796
+Exiting Long at 1.13796
+Entering Long at 1.13824
+Take Profit 1 hit at 1.13944
+Exiting Long at 1.13944
+Entering Long at 1.13923
+Take Profit 1 hit at 1.14047
+Exiting Long at 1.14047
+Entering Long at 1.13703
+Stop Loss hit, exiting Long at 1.10066
+Entering Long at 1.09934
+Take Profit 1 hit at 1.10076
+Exiting Long at 1.10076
+Entering Long at 1.09844
+Take Profit 1 hit at 1.09988
+Exiting Long at 1.09988
+Entering Long at 1.10003
+Take Profit 1 hit at 1.10124
+Exiting Long at 1.10124
+Entering Long at 1.1017
+Take Profit 1 hit at 1.10285
+Exiting Long at 1.10285
+Entering Long at 1.10894
+Take Profit 1 hit at 1.11014
+Exiting Long at 1.11014
+Entering Long at 1.11137
+Take Profit 1 hit at 1.11401
+Exiting Long at 1.11401
+Entering Long at 1.12386
+Stop Loss hit, exiting Long at 1.09
+Entering Long at 1.0888
+Take Profit 1 hit at 1.09007
+Exiting Long at 1.09007
+Entering Long at 1.08938
+Take Profit 1 hit at 1.09058
+Exiting Long at 1.09058
+Entering Long at 1.08886
+Take Profit 1 hit at 1.09003
+Exiting Long at 1.09003
+Entering Long at 1.08962
+Take Profit 1 hit at 1.0908
+Exiting Long at 1.0908
+Entering Long at 1.09439
+Take Profit 1 hit at 1.09559
+Exiting Long at 1.09559
+Entering Long at 1.09396
+Take Profit 1 hit at 1.09517
+Exiting Long at 1.09517
+Entering Long at 1.09362
+Take Profit 1 hit at 1.09481
+Exiting Long at 1.09481
+Entering Long at 1.0898
+Take Profit 1 hit at 1.09089
+Exiting Long at 1.09089
+Entering Long at 1.09242
+Take Profit 1 hit at 1.09364
+Exiting Long at 1.09364
+Entering Long at 1.09476
+Take Profit 1 hit at 1.09612
+Exiting Long at 1.09612
+Entering Long at 1.097
+Take Profit 1 hit at 1.09833
+Exiting Long at 1.09833
+Entering Long at 1.09926
+Take Profit 1 hit at 1.1004
+Exiting Long at 1.1004
+Entering Long at 1.09807
+Take Profit 1 hit at 1.09924
+Exiting Long at 1.09924
+Entering Long at 1.09677
+Take Profit 1 hit at 1.09791
+Exiting Long at 1.09791
+Entering Long at 1.09864
+Take Profit 1 hit at 1.09974
+Exiting Long at 1.09974
+Entering Long at 1.09933
+Take Profit 1 hit at 1.10046
+Exiting Long at 1.10046
+Entering Long at 1.10012
+Take Profit 1 hit at 1.10128
+Exiting Long at 1.10128
+Entering Long at 1.10625
+Take Profit 1 hit at 1.10754
+Exiting Long at 1.10754
+Entering Long at 1.10824
+Take Profit 1 hit at 1.10975
+Exiting Long at 1.10975
+Entering Long at 1.11055
+Take Profit 1 hit at 1.11196
+Exiting Long at 1.11196
+Entering Long at 1.1175
+Take Profit 1 hit at 1.11868
+Exiting Long at 1.11868
+Entering Long at 1.11725
+Take Profit 1 hit at 1.11849
+Exiting Long at 1.11849
+Entering Long at 1.11493
+Take Profit 1 hit at 1.11634
+Exiting Long at 1.11634
+Entering Long at 1.11501
+Take Profit 1 hit at 1.11614
+Exiting Long at 1.11614
+Entering Long at 1.11355
+Take Profit 1 hit at 1.11478
+Exiting Long at 1.11478
+Entering Long at 1.11514
+Take Profit 1 hit at 1.11629
+Exiting Long at 1.11629
+Entering Long at 1.11717
+Take Profit 1 hit at 1.1183
+Exiting Long at 1.1183
+Entering Long at 1.1166
+Take Profit 1 hit at 1.118
+Exiting Long at 1.118
+Entering Long at 1.11914
+Take Profit 1 hit at 1.12032
+Exiting Long at 1.12032
+Entering Long at 1.12063
+Take Profit 1 hit at 1.12406
+Exiting Long at 1.12406
+Entering Long at 1.12356
+Take Profit 1 hit at 1.12484
+Exiting Long at 1.12484
+Entering Long at 1.12723
+Take Profit 1 hit at 1.12841
+Exiting Long at 1.12841
+Entering Long at 1.12804
+Take Profit 1 hit at 1.1293
+Exiting Long at 1.1293
+Entering Long at 1.13498
+Take Profit 1 hit at 1.13614
+Exiting Long at 1.13614
+Entering Long at 1.13666
+Take Profit 1 hit at 1.1385
+Exiting Long at 1.1385
+Entering Long at 1.13742
+Take Profit 1 hit at 1.1386
+Exiting Long at 1.1386
+Entering Long at 1.13836
+Take Profit 1 hit at 1.13954
+Exiting Long at 1.13954
+Entering Long at 1.14612
+Take Profit 1 hit at 1.14819
+Exiting Long at 1.14819
+Entering Long at 1.14661
+Take Profit 1 hit at 1.14784
+Exiting Long at 1.14784
+Entering Long at 1.14797
+Take Profit 1 hit at 1.14944
+Exiting Long at 1.14944
+Entering Long at 1.15965
+Take Profit 1 hit at 1.16118
+Exiting Long at 1.16118
+Entering Long at 1.16226
+Stop Loss hit, exiting Long at 1.1257
+Entering Long at 1.12621
+Take Profit 1 hit at 1.12792
+Exiting Long at 1.12792
+Entering Long at 1.12428
+Take Profit 1 hit at 1.12544
+Exiting Long at 1.12544
+Entering Long at 1.12417
+Take Profit 1 hit at 1.12542
+Exiting Long at 1.12542
+Entering Long at 1.12555
+Take Profit 1 hit at 1.12692
+Exiting Long at 1.12692
+Entering Long at 1.12814
+Take Profit 1 hit at 1.12934
+Exiting Long at 1.12934
+Entering Long at 1.12732
+Take Profit 1 hit at 1.12856
+Exiting Long at 1.12856
+Entering Long at 1.13023
+Take Profit 1 hit at 1.13143
+Exiting Long at 1.13143
+Entering Long at 1.12916
+Take Profit 1 hit at 1.13078
+Exiting Long at 1.13078
+Entering Long at 1.12932
+Take Profit 1 hit at 1.13053
+Exiting Long at 1.13053
+Entering Long at 1.13119
+Take Profit 1 hit at 1.13244
+Exiting Long at 1.13244
+Entering Long at 1.13372
+Take Profit 1 hit at 1.13566
+Exiting Long at 1.13566
+Entering Long at 1.13456
+Take Profit 1 hit at 1.13605
+Exiting Long at 1.13605
+Entering Long at 1.1345
+Take Profit 1 hit at 1.13578
+Exiting Long at 1.13578
+Entering Long at 1.1425
+Take Profit 1 hit at 1.1437
+Exiting Long at 1.1437
+Entering Long at 1.1441
+Take Profit 1 hit at 1.14531
+Exiting Long at 1.14531
+Entering Long at 1.13758
+Take Profit 1 hit at 1.13876
+Exiting Long at 1.13876
+Entering Long at 1.13842
+Take Profit 1 hit at 1.13957
+Exiting Long at 1.13957
+Entering Long at 1.1382
+Take Profit 1 hit at 1.1394
+Exiting Long at 1.1394
+Entering Long at 1.13808
+Take Profit 1 hit at 1.13922
+Exiting Long at 1.13922
+Entering Long at 1.13808
+Take Profit 1 hit at 1.13934
+Exiting Long at 1.13934
+Entering Long at 1.13832
+Take Profit 1 hit at 1.13956
+Exiting Long at 1.13956
+Entering Long at 1.1391
+Take Profit 1 hit at 1.14026
+Exiting Long at 1.14026
+Entering Long at 1.14064
+Take Profit 1 hit at 1.14322
+Exiting Long at 1.14322
+Entering Long at 1.14261
+Take Profit 1 hit at 1.14377
+Exiting Long at 1.14377
+Entering Long at 1.14394
+Take Profit 1 hit at 1.14536
+Exiting Long at 1.14536
+Entering Long at 1.14731
+Take Profit 1 hit at 1.14848
+Exiting Long at 1.14848
+Entering Long at 1.14756
+Take Profit 1 hit at 1.14872
+Exiting Long at 1.14872
+Entering Long at 1.14811
+Take Profit 1 hit at 1.14938
+Exiting Long at 1.14938
+Entering Long at 1.14777
+Stop Loss hit, exiting Long at 1.11303
+Entering Long at 1.1138
+Stop Loss hit, exiting Long at 1.07173
+Entering Long at 1.07391
+Take Profit 1 hit at 1.07506
+Exiting Long at 1.07506
+Entering Long at 1.07612
+Take Profit 1 hit at 1.07722
+Exiting Long at 1.07722
+Entering Long at 1.07718
+Take Profit 1 hit at 1.07828
+Exiting Long at 1.07828
+Entering Long at 1.0786
+Take Profit 1 hit at 1.08078
+Exiting Long at 1.08078
+Entering Long at 1.07735
+Take Profit 1 hit at 1.07847
+Exiting Long at 1.07847
+Entering Long at 1.08078
+Take Profit 1 hit at 1.08368
+Exiting Long at 1.08368
+Entering Long at 1.08994
+Take Profit 1 hit at 1.09138
+Exiting Long at 1.09138
+Entering Long at 1.09304
+Take Profit 1 hit at 1.09416
+Exiting Long at 1.09416
+Entering Long at 1.09406
+Take Profit 1 hit at 1.09528
+Exiting Long at 1.09528
+Entering Long at 1.09278
+Take Profit 1 hit at 1.09402
+Exiting Long at 1.09402
+Entering Long at 1.09224
+Take Profit 1 hit at 1.09346
+Exiting Long at 1.09346
+Entering Long at 1.0934
+Take Profit 1 hit at 1.09478
+Exiting Long at 1.09478
+Entering Long at 1.095
+Take Profit 1 hit at 1.09625
+Exiting Long at 1.09625
+Entering Long at 1.09502
+Take Profit 1 hit at 1.09628
+Exiting Long at 1.09628
+Entering Long at 1.09828
+Take Profit 1 hit at 1.09956
+Exiting Long at 1.09956
+Entering Long at 1.10176
+Take Profit 1 hit at 1.1029
+Exiting Long at 1.1029
+Entering Long at 1.10232
+Take Profit 1 hit at 1.10346
+Exiting Long at 1.10346
+Entering Long at 1.10152
+Take Profit 1 hit at 1.10276
+Exiting Long at 1.10276
+Entering Long at 1.10236
+Take Profit 1 hit at 1.10532
+Exiting Long at 1.10532
+Entering Long at 1.10346
+Take Profit 1 hit at 1.10487
+Exiting Long at 1.10487
+Entering Long at 1.10878
+Take Profit 1 hit at 1.10998
+Exiting Long at 1.10998
+Entering Long at 1.11142
+Take Profit 1 hit at 1.11302
+Exiting Long at 1.11302
+Entering Long at 1.11664
+Take Profit 1 hit at 1.1179
+Exiting Long at 1.1179
+Entering Long at 1.11906
+Take Profit 1 hit at 1.12041
+Exiting Long at 1.12041
+Entering Long at 1.11926
+Take Profit 1 hit at 1.12042
+Exiting Long at 1.12042
+Entering Long at 1.12188
+Take Profit 1 hit at 1.12301
+Exiting Long at 1.12301
+Entering Long at 1.12086
+Take Profit 1 hit at 1.122
+Exiting Long at 1.122
+Entering Long at 1.12594
+Take Profit 1 hit at 1.12746
+Exiting Long at 1.12746
+Entering Long at 1.12958
+Take Profit 1 hit at 1.13137
+Exiting Long at 1.13137
+Entering Long at 1.13026
+Take Profit 1 hit at 1.13152
+Exiting Long at 1.13152
+Entering Long at 1.12997
+Take Profit 1 hit at 1.13112
+Exiting Long at 1.13112
+Entering Long at 1.13138
+Take Profit 1 hit at 1.13304
+Exiting Long at 1.13304
+Entering Long at 1.13578
+Take Profit 1 hit at 1.13694
+Exiting Long at 1.13694
+Entering Long at 1.13334
+Take Profit 1 hit at 1.13458
+Exiting Long at 1.13458
+Entering Long at 1.13522
+Stop Loss hit, exiting Long at 1.10113
+Entering Long at 1.10251
+Take Profit 1 hit at 1.1037
+Exiting Long at 1.1037
+Entering Long at 1.10387
+Take Profit 1 hit at 1.10502
+Exiting Long at 1.10502
+Entering Long at 1.1027
+Take Profit 1 hit at 1.10404
+Exiting Long at 1.10404
+Entering Long at 1.1019
+Take Profit 1 hit at 1.10312
+Exiting Long at 1.10312
+Entering Long at 1.10119
+Take Profit 1 hit at 1.10236
+Exiting Long at 1.10236
+Entering Long at 1.1028
+Take Profit 1 hit at 1.10408
+Exiting Long at 1.10408
+Entering Long at 1.10264
+Take Profit 1 hit at 1.10387
+Exiting Long at 1.10387
+Entering Long at 1.10354
+Take Profit 1 hit at 1.1048
+Exiting Long at 1.1048
+Entering Long at 1.10594
+Take Profit 1 hit at 1.10772
+Exiting Long at 1.10772
+Entering Long at 1.11916
+Take Profit 1 hit at 1.1209
+Exiting Long at 1.1209
+Entering Long at 1.11845
+Take Profit 1 hit at 1.11974
+Exiting Long at 1.11974
+Entering Long at 1.12178
+Take Profit 1 hit at 1.123
+Exiting Long at 1.123
+Entering Long at 1.13124
+Take Profit 1 hit at 1.1325
+Exiting Long at 1.1325
+Entering Long at 1.13017
+Take Profit 1 hit at 1.13181
+Exiting Long at 1.13181
+Entering Long at 1.13278
+Take Profit 1 hit at 1.1343
+Exiting Long at 1.1343
+Entering Long at 1.13314
+Take Profit 1 hit at 1.13428
+Exiting Long at 1.13428
+Entering Long at 1.13317
+Take Profit 1 hit at 1.13441
+Exiting Long at 1.13441
+Entering Long at 1.13822
+Take Profit 1 hit at 1.1395
+Exiting Long at 1.1395
+Entering Long at 1.14047
+Take Profit 1 hit at 1.14172
+Exiting Long at 1.14172
+Entering Long at 1.14098
+Take Profit 1 hit at 1.14296
+Exiting Long at 1.14296
+Entering Long at 1.13728
+Take Profit 1 hit at 1.13845
+Exiting Long at 1.13845
+Entering Long at 1.13834
+Take Profit 1 hit at 1.13958
+Exiting Long at 1.13958
+Entering Long at 1.1389
+Take Profit 1 hit at 1.14004
+Exiting Long at 1.14004
+Entering Long at 1.14011
+Take Profit 1 hit at 1.1414
+Exiting Long at 1.1414
+Entering Long at 1.13974
+Take Profit 1 hit at 1.14182
+Exiting Long at 1.14182
+Entering Long at 1.1399
+Take Profit 1 hit at 1.14118
+Exiting Long at 1.14118
+Entering Long at 1.14002
+Take Profit 1 hit at 1.14128
+Exiting Long at 1.14128
+Entering Long at 1.14252
+Take Profit 1 hit at 1.14398
+Exiting Long at 1.14398
+Entering Long at 1.14224
+Take Profit 1 hit at 1.14352
+Exiting Long at 1.14352
+Entering Long at 1.14275
+Take Profit 1 hit at 1.14408
+Exiting Long at 1.14408
+Entering Long at 1.14385
+Take Profit 1 hit at 1.14511
+Exiting Long at 1.14511
+Entering Long at 1.14432
+Take Profit 1 hit at 1.14609
+Exiting Long at 1.14609
+Entering Long at 1.14572
+Take Profit 1 hit at 1.14692
+Exiting Long at 1.14692
+Entering Long at 1.14666
+Take Profit 1 hit at 1.1479
+Exiting Long at 1.1479
+Entering Long at 1.14694
+Take Profit 1 hit at 1.14822
+Exiting Long at 1.14822
+Entering Long at 1.14797
+Take Profit 1 hit at 1.14928
+Exiting Long at 1.14928
+Entering Long at 1.14776
+Take Profit 1 hit at 1.14898
+Exiting Long at 1.14898
+Entering Long at 1.15168
+Take Profit 1 hit at 1.1529
+Exiting Long at 1.1529
+Entering Long at 1.1517
+Take Profit 1 hit at 1.15299
+Exiting Long at 1.15299
+Entering Long at 1.15282
+Take Profit 1 hit at 1.15418
+Exiting Long at 1.15418
+Entering Long at 1.15362
+Take Profit 1 hit at 1.15576
+Exiting Long at 1.15576
+Entering Long at 1.15842
+Stop Loss hit, exiting Long at 1.12337
+Entering Long at 1.12205
+Take Profit 1 hit at 1.12326
+Exiting Long at 1.12326
+Entering Long at 1.12161
+Take Profit 1 hit at 1.12274
+Exiting Long at 1.12274
+Entering Long at 1.12194
+Take Profit 1 hit at 1.1231
+Exiting Long at 1.1231
+Entering Long at 1.12294
+Take Profit 1 hit at 1.12414
+Exiting Long at 1.12414
+Entering Long at 1.12325
+Take Profit 1 hit at 1.12592
+Exiting Long at 1.12592
+Entering Long at 1.13238
+Take Profit 1 hit at 1.13352
+Exiting Long at 1.13352
+Entering Long at 1.13401
+Take Profit 1 hit at 1.13516
+Exiting Long at 1.13516
+Entering Long at 1.13559
+Take Profit 1 hit at 1.1373
+Exiting Long at 1.1373
+Entering Long at 1.13462
+Take Profit 1 hit at 1.13626
+Exiting Long at 1.13626
+Entering Long at 1.13492
+Take Profit 1 hit at 1.13606
+Exiting Long at 1.13606
+Entering Long at 1.13554
+Take Profit 1 hit at 1.13676
+Exiting Long at 1.13676
+Entering Long at 1.13612
+Take Profit 1 hit at 1.1373
+Exiting Long at 1.1373
+Entering Long at 1.13626
+Take Profit 1 hit at 1.1374
+Exiting Long at 1.1374
+Entering Long at 1.13684
+Take Profit 1 hit at 1.13798
+Exiting Long at 1.13798
+Entering Long at 1.13924
+Take Profit 1 hit at 1.14038
+Exiting Long at 1.14038
+Entering Long at 1.13963
+Take Profit 1 hit at 1.14083
+Exiting Long at 1.14083
+Entering Long at 1.1411
+Take Profit 1 hit at 1.14236
+Exiting Long at 1.14236
+Entering Long at 1.13858
+Stop Loss hit, exiting Long at 1.1043
+Entering Long at 1.10136
+Take Profit 1 hit at 1.10316
+Exiting Long at 1.10316
+Entering Long at 1.09691
+Take Profit 1 hit at 1.09836
+Exiting Long at 1.09836
+Entering Long at 1.09974
+Take Profit 1 hit at 1.1009
+Exiting Long at 1.1009
+Entering Long at 1.11
+Take Profit 1 hit at 1.11113
+Exiting Long at 1.11113
+Entering Long at 1.10789
+Take Profit 1 hit at 1.11036
+Exiting Long at 1.11036
+Entering Long at 1.11552
+Take Profit 1 hit at 1.11671
+Exiting Long at 1.11671
+Entering Long at 1.11376
+Take Profit 1 hit at 1.11525
+Exiting Long at 1.11525
+Entering Long at 1.11326
+Take Profit 1 hit at 1.11439
+Exiting Long at 1.11439
+Entering Long at 1.1135
+Take Profit 1 hit at 1.1147
+Exiting Long at 1.1147
+Entering Long at 1.11318
+Take Profit 1 hit at 1.1143
+Exiting Long at 1.1143
+Entering Long at 1.11434
+Take Profit 1 hit at 1.11552
+Exiting Long at 1.11552
+Entering Long at 1.11558
+Take Profit 1 hit at 1.11838
+Exiting Long at 1.11838
+Entering Long at 1.1139
+Take Profit 1 hit at 1.11506
+Exiting Long at 1.11506
+Entering Long at 1.11522
+Take Profit 1 hit at 1.1164
+Exiting Long at 1.1164
+Entering Long at 1.11481
+Take Profit 1 hit at 1.11603
+Exiting Long at 1.11603
+Entering Long at 1.1138
+Take Profit 1 hit at 1.11578
+Exiting Long at 1.11578
+Entering Long at 1.11424
+Take Profit 1 hit at 1.11536
+Exiting Long at 1.11536
+Entering Long at 1.11609
+Take Profit 1 hit at 1.1173
+Exiting Long at 1.1173
+Entering Long at 1.11794
+Take Profit 1 hit at 1.11966
+Exiting Long at 1.11966
+Entering Long at 1.11976
+Take Profit 1 hit at 1.12094
+Exiting Long at 1.12094
+Entering Long at 1.12204
+Take Profit 1 hit at 1.12326
+Exiting Long at 1.12326
+Entering Long at 1.12279
+Take Profit 1 hit at 1.124
+Exiting Long at 1.124
+Entering Long at 1.1256
+Take Profit 1 hit at 1.12678
+Exiting Long at 1.12678
+Entering Long at 1.12896
+Take Profit 1 hit at 1.13055
+Exiting Long at 1.13055
+Entering Long at 1.12967
+Take Profit 1 hit at 1.13107
+Exiting Long at 1.13107
+Entering Long at 1.13096
+Take Profit 1 hit at 1.13222
+Exiting Long at 1.13222
+Entering Long at 1.13136
+Take Profit 1 hit at 1.13251
+Exiting Long at 1.13251
+Entering Long at 1.13216
+Take Profit 1 hit at 1.13336
+Exiting Long at 1.13336
+Entering Long at 1.1329
+Take Profit 1 hit at 1.1343
+Exiting Long at 1.1343
+Entering Long at 1.1353
+Stop Loss hit, exiting Long at 1.10124
+Entering Long at 1.10228
+Take Profit 1 hit at 1.10364
+Exiting Long at 1.10364
+Entering Long at 1.10194
+Take Profit 1 hit at 1.10324
+Exiting Long at 1.10324
+Entering Long at 1.10118
+Take Profit 1 hit at 1.10245
+Exiting Long at 1.10245
+Entering Long at 1.10397
+Take Profit 1 hit at 1.10526
+Exiting Long at 1.10526
+Entering Long at 1.10529
+Take Profit 1 hit at 1.10641
+Exiting Long at 1.10641
+Entering Long at 1.10576
+Take Profit 1 hit at 1.10688
+Exiting Long at 1.10688
+Entering Long at 1.10678
+Take Profit 1 hit at 1.1079
+Exiting Long at 1.1079
+Entering Long at 1.10764
+Take Profit 1 hit at 1.10892
+Exiting Long at 1.10892
+Entering Long at 1.10868
+Take Profit 1 hit at 1.10982
+Exiting Long at 1.10982
+Entering Long at 1.11007
+Take Profit 1 hit at 1.11128
+Exiting Long at 1.11128
+Entering Long at 1.11069
+Take Profit 1 hit at 1.11191
+Exiting Long at 1.11191
+Entering Long at 1.11153
+Take Profit 1 hit at 1.11288
+Exiting Long at 1.11288
+Entering Long at 1.10648
+Take Profit 1 hit at 1.10805
+Exiting Long at 1.10805
+Entering Long at 1.10962
+Take Profit 1 hit at 1.11076
+Exiting Long at 1.11076
+Entering Long at 1.10975
+Take Profit 1 hit at 1.11094
+Exiting Long at 1.11094
+Entering Long at 1.12054
+Take Profit 1 hit at 1.12265
+Exiting Long at 1.12265
+Entering Long at 1.1268
+Take Profit 1 hit at 1.12802
+Exiting Long at 1.12802
+Entering Long at 1.12282
+Take Profit 1 hit at 1.1242
+Exiting Long at 1.1242
+Entering Long at 1.10744
+Take Profit 1 hit at 1.10869
+Exiting Long at 1.10869
+Entering Long at 1.10866
+Stop Loss hit, exiting Long at 1.07532
+Entering Long at 1.07582
+Take Profit 1 hit at 1.07692
+Exiting Long at 1.07692
+Entering Long at 1.07668
+Take Profit 1 hit at 1.0778
+Exiting Long at 1.0778
+Entering Long at 1.07888
+Take Profit 1 hit at 1.07996
+Exiting Long at 1.07996
+Entering Long at 1.07476
+Take Profit 1 hit at 1.07585
+Exiting Long at 1.07585
+Entering Long at 1.07522
+Take Profit 1 hit at 1.07642
+Exiting Long at 1.07642
+Entering Long at 1.07686
+Take Profit 1 hit at 1.07796
+Exiting Long at 1.07796
+Entering Long at 1.07636
+Take Profit 1 hit at 1.07745
+Exiting Long at 1.07745
+Entering Long at 1.0771
+Take Profit 1 hit at 1.0782
+Exiting Long at 1.0782
+Entering Long at 1.0788
+Take Profit 1 hit at 1.07992
+Exiting Long at 1.07992
+Entering Long at 1.0768
+Stop Loss hit, exiting Long at 1.0438
+Entering Long at 1.04391
+Take Profit 1 hit at 1.04534
+Exiting Long at 1.04534
+Entering Long at 1.04354
+Take Profit 1 hit at 1.04469
+Exiting Long at 1.04469
+Entering Long at 1.04516
+Take Profit 1 hit at 1.04644
+Exiting Long at 1.04644
+Entering Long at 1.04427
+Take Profit 1 hit at 1.04536
+Exiting Long at 1.04536
+Entering Long at 1.0458
+Take Profit 1 hit at 1.04711
+Exiting Long at 1.04711
+Entering Long at 1.04448
+Take Profit 1 hit at 1.04563
+Exiting Long at 1.04563
+Entering Long at 1.04456
+Take Profit 1 hit at 1.04585
+Exiting Long at 1.04585
+Entering Long at 1.0457
+Take Profit 1 hit at 1.04678
+Exiting Long at 1.04678
+Entering Long at 1.0464
+Take Profit 1 hit at 1.04777
+Exiting Long at 1.04777
+Entering Long at 1.04632
+Take Profit 1 hit at 1.04743
+Exiting Long at 1.04743
+Entering Long at 1.04714
+Take Profit 1 hit at 1.04899
+Exiting Long at 1.04899
+Entering Long at 1.04763
+Take Profit 1 hit at 1.04883
+Exiting Long at 1.04883
+Entering Long at 1.04838
+Take Profit 1 hit at 1.04944
+Exiting Long at 1.04944
+Entering Long at 1.04982
+Take Profit 1 hit at 1.05094
+Exiting Long at 1.05094
+Entering Long at 1.05392
+Take Profit 1 hit at 1.05601
+Exiting Long at 1.05601
+Entering Long at 1.05449
+Take Profit 1 hit at 1.05562
+Exiting Long at 1.05562
+Entering Long at 1.0548
+Take Profit 1 hit at 1.05614
+Exiting Long at 1.05614
+Entering Long at 1.05526
+Take Profit 1 hit at 1.05635
+Exiting Long at 1.05635
+Entering Long at 1.05344
+Take Profit 1 hit at 1.05472
+Exiting Long at 1.05472
+Entering Long at 1.05453
+Take Profit 1 hit at 1.05578
+Exiting Long at 1.05578
+Entering Long at 1.05668
+Take Profit 1 hit at 1.0578
+Exiting Long at 1.0578
+Entering Long at 1.05886
+Take Profit 1 hit at 1.05997
+Exiting Long at 1.05997
+Entering Long at 1.05894
+Take Profit 1 hit at 1.06001
+Exiting Long at 1.06001
+Entering Long at 1.06006
+Take Profit 1 hit at 1.06121
+Exiting Long at 1.06121
+Entering Long at 1.05996
+Take Profit 1 hit at 1.06116
+Exiting Long at 1.06116
+Entering Long at 1.06034
+Take Profit 1 hit at 1.06154
+Exiting Long at 1.06154
+Entering Long at 1.06069
+Take Profit 1 hit at 1.06191
+Exiting Long at 1.06191
+Entering Long at 1.05884
+Take Profit 1 hit at 1.05998
+Exiting Long at 1.05998
+Entering Long at 1.05695
+Take Profit 1 hit at 1.05822
+Exiting Long at 1.05822
+Entering Long at 1.05718
+Take Profit 1 hit at 1.05824
+Exiting Long at 1.05824
+Entering Long at 1.05842
+Take Profit 1 hit at 1.05949
+Exiting Long at 1.05949
+Entering Long at 1.05811
+Take Profit 1 hit at 1.05926
+Exiting Long at 1.05926
+Entering Long at 1.06285
+Take Profit 1 hit at 1.06401
+Exiting Long at 1.06401
+Entering Long at 1.06393
+Take Profit 1 hit at 1.06523
+Exiting Long at 1.06523
+Entering Long at 1.06587
+Take Profit 1 hit at 1.067
+Exiting Long at 1.067
+Entering Long at 1.06464
+Take Profit 1 hit at 1.0661
+Exiting Long at 1.0661
+Entering Long at 1.06679
+Take Profit 1 hit at 1.06792
+Exiting Long at 1.06792
+Entering Long at 1.06624
+Take Profit 1 hit at 1.06752
+Exiting Long at 1.06752
+Entering Long at 1.06768
+Take Profit 1 hit at 1.06882
+Exiting Long at 1.06882
+Entering Long at 1.06806
+Take Profit 1 hit at 1.06916
+Exiting Long at 1.06916
+Entering Long at 1.07057
+Take Profit 1 hit at 1.07198
+Exiting Long at 1.07198
+Entering Long at 1.07432
+Take Profit 1 hit at 1.07542
+Exiting Long at 1.07542
+Entering Long at 1.0743
+Take Profit 1 hit at 1.07552
+Exiting Long at 1.07552
+Entering Long at 1.07653
+Take Profit 1 hit at 1.07773
+Exiting Long at 1.07773
+Entering Long at 1.07802
+Take Profit 1 hit at 1.07913
+Exiting Long at 1.07913
+Entering Long at 1.07925
+Take Profit 1 hit at 1.08044
+Exiting Long at 1.08044
+Entering Long at 1.07972
+Take Profit 1 hit at 1.081
+Exiting Long at 1.081
+Entering Long at 1.08053
+Take Profit 1 hit at 1.08164
+Exiting Long at 1.08164
+Entering Long at 1.08009
+Take Profit 1 hit at 1.08119
+Exiting Long at 1.08119
+Entering Long at 1.07996
+Take Profit 1 hit at 1.08129
+Exiting Long at 1.08129
+Entering Long at 1.08028
+Take Profit 1 hit at 1.08142
+Exiting Long at 1.08142
+Entering Long at 1.08182
+Take Profit 1 hit at 1.08328
+Exiting Long at 1.08328
+Entering Long at 1.08402
+Take Profit 1 hit at 1.0852
+Exiting Long at 1.0852
+Entering Long at 1.08588
+Take Profit 1 hit at 1.08702
+Exiting Long at 1.08702
+Entering Long at 1.08842
+Take Profit 1 hit at 1.09016
+Exiting Long at 1.09016
+Entering Long at 1.0884
+Take Profit 1 hit at 1.08954
+Exiting Long at 1.08954
+Entering Long at 1.08873
+Take Profit 1 hit at 1.09
+Exiting Long at 1.09
+Entering Long at 1.09422
+Take Profit 1 hit at 1.09598
+Exiting Long at 1.09598
+Entering Long at 1.0982
+Take Profit 1 hit at 1.09939
+Exiting Long at 1.09939
+Entering Long at 1.099
+Take Profit 1 hit at 1.10209
+Exiting Long at 1.10209
+Entering Long at 1.10039
+Take Profit 1 hit at 1.10161
+Exiting Long at 1.10161
+Entering Long at 1.10328
+Take Profit 1 hit at 1.10444
+Exiting Long at 1.10444
+Entering Long at 1.10488
+Take Profit 1 hit at 1.10646
+Exiting Long at 1.10646
+Entering Long at 1.10512
+Take Profit 1 hit at 1.10634
+Exiting Long at 1.10634
+Entering Long at 1.10664
+Take Profit 1 hit at 1.10801
+Exiting Long at 1.10801
+Entering Long at 1.10665
+Take Profit 1 hit at 1.10782
+Exiting Long at 1.10782
+Entering Long at 1.10796
+Take Profit 1 hit at 1.10915
+Exiting Long at 1.10915
+Entering Long at 1.10907
+Take Profit 1 hit at 1.11044
+Exiting Long at 1.11044
+Entering Long at 1.11103
+Take Profit 1 hit at 1.1122
+Exiting Long at 1.1122
+Entering Long at 1.11075
+Take Profit 1 hit at 1.11195
+Exiting Long at 1.11195
+Entering Long at 1.11059
+Take Profit 1 hit at 1.11174
+Exiting Long at 1.11174
+Entering Long at 1.11258
+Take Profit 1 hit at 1.11372
+Exiting Long at 1.11372
+Entering Long at 1.11308
+Take Profit 1 hit at 1.11428
+Exiting Long at 1.11428
+Entering Long at 1.11472
+Take Profit 1 hit at 1.1159
+Exiting Long at 1.1159
+Entering Long at 1.11602
+Take Profit 1 hit at 1.1172
+Exiting Long at 1.1172
+Entering Long at 1.11593
+Take Profit 1 hit at 1.11709
+Exiting Long at 1.11709
+Entering Long at 1.11878
+Take Profit 1 hit at 1.12062
+Exiting Long at 1.12062
+Entering Long at 1.12009
+Take Profit 1 hit at 1.12178
+Exiting Long at 1.12178
+Entering Long at 1.12458
+Take Profit 1 hit at 1.12596
+Exiting Long at 1.12596
+Entering Long at 1.12504
+Take Profit 1 hit at 1.12624
+Exiting Long at 1.12624
+Entering Long at 1.12596
+Take Profit 1 hit at 1.12711
+Exiting Long at 1.12711
+Entering Long at 1.12784
+Take Profit 1 hit at 1.12944
+Exiting Long at 1.12944
+Entering Long at 1.12694
+Take Profit 1 hit at 1.12812
+Exiting Long at 1.12812
+Entering Long at 1.12774
+Take Profit 1 hit at 1.12915
+Exiting Long at 1.12915
+Entering Long at 1.13423
+Take Profit 1 hit at 1.13546
+Exiting Long at 1.13546
+Entering Long at 1.13484
+Take Profit 1 hit at 1.13598
+Exiting Long at 1.13598
+Entering Long at 1.13554
+Take Profit 1 hit at 1.13674
+Exiting Long at 1.13674
+Entering Long at 1.1374
+Take Profit 1 hit at 1.13869
+Exiting Long at 1.13869
+Entering Long at 1.13682
+Take Profit 1 hit at 1.13808
+Exiting Long at 1.13808
+Entering Long at 1.13589
+Take Profit 1 hit at 1.13722
+Exiting Long at 1.13722
+Entering Long at 1.13783
+Take Profit 1 hit at 1.13932
+Exiting Long at 1.13932
+Entering Long at 1.14002
+Take Profit 1 hit at 1.14117
+Exiting Long at 1.14117
+Entering Long at 1.14136
+Take Profit 1 hit at 1.14258
+Exiting Long at 1.14258
+Entering Long at 1.14196
+Take Profit 1 hit at 1.14314
+Exiting Long at 1.14314
+Entering Long at 1.14324
+Take Profit 1 hit at 1.14443
+Exiting Long at 1.14443
+Entering Long at 1.14322
+Take Profit 1 hit at 1.1444
+Exiting Long at 1.1444
+Entering Long at 1.14365
+Take Profit 1 hit at 1.14694
+Exiting Long at 1.14694
+Entering Long at 1.1467
+Take Profit 1 hit at 1.14786
+Exiting Long at 1.14786
+Entering Long at 1.14719
+Take Profit 1 hit at 1.14837
+Exiting Long at 1.14837
+Entering Long at 1.14759
+Take Profit 1 hit at 1.14874
+Exiting Long at 1.14874
+Entering Long at 1.1482
+Take Profit 1 hit at 1.14936
+Exiting Long at 1.14936
+Entering Long at 1.15253
+Take Profit 1 hit at 1.1541
+Exiting Long at 1.1541
+Entering Long at 1.15484
+Take Profit 1 hit at 1.15655
+Exiting Long at 1.15655
+Entering Long at 1.15722
+Take Profit 1 hit at 1.15842
+Exiting Long at 1.15842
+Entering Long at 1.16239
+Take Profit 1 hit at 1.16358
+Exiting Long at 1.16358
+Entering Long at 1.16305
+Take Profit 1 hit at 1.16425
+Exiting Long at 1.16425
+Entering Long at 1.16438
+Take Profit 1 hit at 1.16559
+Exiting Long at 1.16559
+Entering Long at 1.16423
+Take Profit 1 hit at 1.16541
+Exiting Long at 1.16541
+Entering Long at 1.16705
+Take Profit 1 hit at 1.16824
+Exiting Long at 1.16824
+Entering Long at 1.16711
+Take Profit 1 hit at 1.16879
+Exiting Long at 1.16879
+Entering Long at 1.1683
+Take Profit 1 hit at 1.1697
+Exiting Long at 1.1697
+Entering Long at 1.16464
+Take Profit 1 hit at 1.16668
+Exiting Long at 1.16668
+Entering Long at 1.17374
+Take Profit 1 hit at 1.17686
+Exiting Long at 1.17686
+Entering Long at 1.1749
+Take Profit 1 hit at 1.17613
+Exiting Long at 1.17613
+Entering Long at 1.17418
+Take Profit 1 hit at 1.1754
+Exiting Long at 1.1754
+Entering Long at 1.17482
+Take Profit 1 hit at 1.17615
+Exiting Long at 1.17615
+Entering Long at 1.17504
+Take Profit 1 hit at 1.17628
+Exiting Long at 1.17628
+Entering Long at 1.18341
+Take Profit 1 hit at 1.18596
+Exiting Long at 1.18596
+Entering Long at 1.18375
+Take Profit 1 hit at 1.18496
+Exiting Long at 1.18496
+Entering Long at 1.1875
+Take Profit 1 hit at 1.18888
+Exiting Long at 1.18888
+Entering Long at 1.18728
+Take Profit 1 hit at 1.18876
+Exiting Long at 1.18876
+Entering Long at 1.18682
+Take Profit 1 hit at 1.18802
+Exiting Long at 1.18802
+Entering Long at 1.18775
+Take Profit 1 hit at 1.18898
+Exiting Long at 1.18898
+Entering Long at 1.1876
+Take Profit 1 hit at 1.18951
+Exiting Long at 1.18951
+Entering Long at 1.19484
+Take Profit 1 hit at 1.19634
+Exiting Long at 1.19634
+Entering Long at 1.19738
+Take Profit 1 hit at 1.19873
+Exiting Long at 1.19873
+Entering Long at 1.2049
+Take Profit 1 hit at 1.20618
+Exiting Long at 1.20618
+Entering Long at 1.20626
+Stop Loss hit, exiting Long at 1.17007
+Entering Long at 1.17108
+Take Profit 1 hit at 1.17234
+Exiting Long at 1.17234
+Entering Long at 1.17362
+Take Profit 1 hit at 1.17494
+Exiting Long at 1.17494
+Entering Long at 1.17498
+Take Profit 1 hit at 1.17622
+Exiting Long at 1.17622
+Entering Long at 1.17492
+Take Profit 1 hit at 1.17705
+Exiting Long at 1.17705
+Entering Long at 1.17534
+Take Profit 1 hit at 1.1767
+Exiting Long at 1.1767
+Entering Long at 1.17662
+Take Profit 1 hit at 1.17805
+Exiting Long at 1.17805
+Entering Long at 1.17676
+Take Profit 1 hit at 1.17796
+Exiting Long at 1.17796
+Entering Long at 1.17694
+Take Profit 1 hit at 1.17846
+Exiting Long at 1.17846
+Entering Long at 1.17679
+Take Profit 1 hit at 1.17802
+Exiting Long at 1.17802
+Entering Long at 1.17809
+Take Profit 1 hit at 1.1794
+Exiting Long at 1.1794
+Entering Long at 1.1799
+Take Profit 1 hit at 1.18134
+Exiting Long at 1.18134
+Entering Long at 1.18095
+Take Profit 1 hit at 1.18222
+Exiting Long at 1.18222
+Entering Long at 1.18152
+Take Profit 1 hit at 1.18304
+Exiting Long at 1.18304
+Entering Long at 1.18304
+Take Profit 1 hit at 1.18441
+Exiting Long at 1.18441
+Entering Long at 1.18392
+Take Profit 1 hit at 1.18534
+Exiting Long at 1.18534
+Entering Long at 1.18408
+Take Profit 1 hit at 1.18528
+Exiting Long at 1.18528
+Entering Long at 1.18613
+Take Profit 1 hit at 1.18742
+Exiting Long at 1.18742
+Entering Long at 1.1869
+Take Profit 1 hit at 1.18828
+Exiting Long at 1.18828
+Entering Long at 1.19277
+Take Profit 1 hit at 1.19458
+Exiting Long at 1.19458
+Entering Long at 1.19241
+Take Profit 1 hit at 1.19362
+Exiting Long at 1.19362
+Entering Long at 1.1938
+Take Profit 1 hit at 1.19504
+Exiting Long at 1.19504
+Entering Long at 1.19428
+Take Profit 1 hit at 1.19554
+Exiting Long at 1.19554
+Entering Long at 1.19518
+Take Profit 1 hit at 1.19642
+Exiting Long at 1.19642
+Entering Long at 1.1976
+Take Profit 1 hit at 1.19883
+Exiting Long at 1.19883
+Entering Long at 1.19876
+Take Profit 1 hit at 1.20006
+Exiting Long at 1.20006
+Entering Long at 1.20142
+Take Profit 1 hit at 1.20266
+Exiting Long at 1.20266
+Entering Long at 1.20613
+Take Profit 1 hit at 1.20738
+Exiting Long at 1.20738
+Entering Long at 1.20666
+Take Profit 1 hit at 1.2079
+Exiting Long at 1.2079
+Entering Long at 1.2064
+Take Profit 1 hit at 1.20763
+Exiting Long at 1.20763
+Entering Long at 1.20688
+Take Profit 1 hit at 1.20821
+Exiting Long at 1.20821
+Entering Long at 1.21228
+Take Profit 1 hit at 1.21407
+Exiting Long at 1.21407
+Entering Long at 1.21537
+Take Profit 1 hit at 1.21664
+Exiting Long at 1.21664
+Entering Long at 1.21904
+Take Profit 1 hit at 1.22028
+Exiting Long at 1.22028
+Entering Long at 1.22058
+Take Profit 1 hit at 1.22192
+Exiting Long at 1.22192
+Entering Long at 1.22182
+Take Profit 1 hit at 1.22306
+Exiting Long at 1.22306
+Entering Long at 1.2264
+Take Profit 1 hit at 1.2278
+Exiting Long at 1.2278
+Entering Long at 1.2266
+Take Profit 1 hit at 1.22834
+Exiting Long at 1.22834
+Entering Long at 1.22701
+Take Profit 1 hit at 1.22852
+Exiting Long at 1.22852
+Entering Long at 1.22765
+Take Profit 1 hit at 1.22924
+Exiting Long at 1.22924
+Entering Long at 1.22632
+Take Profit 1 hit at 1.22816
+Exiting Long at 1.22816
+Entering Long at 1.22726
+Take Profit 1 hit at 1.22862
+Exiting Long at 1.22862
+Entering Long at 1.22896
+Take Profit 1 hit at 1.23028
+Exiting Long at 1.23028
+Entering Long at 1.22964
+Take Profit 1 hit at 1.23088
+Exiting Long at 1.23088
+Entering Long at 1.23115
+Take Profit 1 hit at 1.23248
+Exiting Long at 1.23248
+Entering Long at 1.2396
+Take Profit 1 hit at 1.24091
+Exiting Long at 1.24091
+Entering Long at 1.24014
+Take Profit 1 hit at 1.24143
+Exiting Long at 1.24143
+Entering Long at 1.24238
+Take Profit 1 hit at 1.2445
+Exiting Long at 1.2445
+Entering Long at 1.24824
+Take Profit 1 hit at 1.24959
+Exiting Long at 1.24959
+Entering Long at 1.24837
+Take Profit 1 hit at 1.24964
+Exiting Long at 1.24964
+Entering Long at 1.25058
+Take Profit 1 hit at 1.25185
+Exiting Long at 1.25185
+Entering Long at 1.25406
+Stop Loss hit, exiting Long at 1.21638
+Entering Long at 1.21838
+Take Profit 1 hit at 1.22
+Exiting Long at 1.22
+Entering Long at 1.21958
+Take Profit 1 hit at 1.22089
+Exiting Long at 1.22089
+Entering Long at 1.22156
+Take Profit 1 hit at 1.22286
+Exiting Long at 1.22286
+Entering Long at 1.22682
+Take Profit 1 hit at 1.22808
+Exiting Long at 1.22808
+Entering Long at 1.22765
+Take Profit 1 hit at 1.22888
+Exiting Long at 1.22888
+Entering Long at 1.23036
+Take Profit 1 hit at 1.23166
+Exiting Long at 1.23166
+Entering Long at 1.23237
+Take Profit 1 hit at 1.23382
+Exiting Long at 1.23382
+Entering Long at 1.23341
+Take Profit 1 hit at 1.23471
+Exiting Long at 1.23471
+Entering Long at 1.23498
+Take Profit 1 hit at 1.23684
+Exiting Long at 1.23684
+Entering Long at 1.23911
+Take Profit 1 hit at 1.2404
+Exiting Long at 1.2404
+Entering Long at 1.2414
+Take Profit 1 hit at 1.2427
+Exiting Long at 1.2427
+Entering Long at 1.2417
+Take Profit 1 hit at 1.243
+Exiting Long at 1.243
+Entering Long at 1.24164
+Take Profit 1 hit at 1.2433
+Exiting Long at 1.2433
+Entering Long at 1.23896
+Take Profit 1 hit at 1.24024
+Exiting Long at 1.24024
+Entering Long at 1.2314
+Take Profit 1 hit at 1.2327
+Exiting Long at 1.2327
+Entering Long at 1.23118
+Take Profit 1 hit at 1.23247
+Exiting Long at 1.23247
+Entering Long at 1.2319
+Take Profit 1 hit at 1.23388
+Exiting Long at 1.23388
+Entering Long at 1.23223
+Take Profit 1 hit at 1.23351
+Exiting Long at 1.23351
+Entering Long at 1.23338
+Take Profit 1 hit at 1.23543
+Exiting Long at 1.23543
+Entering Long at 1.23511
+Take Profit 1 hit at 1.23676
+Exiting Long at 1.23676
+Entering Long at 1.23807
+Take Profit 1 hit at 1.23948
+Exiting Long at 1.23948
+Entering Long at 1.2391
+Take Profit 1 hit at 1.24048
+Exiting Long at 1.24048
+Entering Long at 1.24004
+Take Profit 1 hit at 1.2414
+Exiting Long at 1.2414
+Entering Long at 1.24032
+Take Profit 1 hit at 1.24164
+Exiting Long at 1.24164
+Entering Long at 1.24169
+Take Profit 1 hit at 1.24322
+Exiting Long at 1.24322
+Entering Long at 1.24502
+Take Profit 1 hit at 1.24642
+Exiting Long at 1.24642
+Entering Long at 1.24534
+Stop Loss hit, exiting Long at 1.20769
+Entering Long at 1.20867
+Take Profit 1 hit at 1.2102
+Exiting Long at 1.2102
+Entering Long at 1.21026
+Take Profit 1 hit at 1.2115
+Exiting Long at 1.2115
+Entering Long at 1.21263
+Take Profit 1 hit at 1.21386
+Exiting Long at 1.21386
+Entering Long at 1.21181
+Stop Loss hit, exiting Long at 1.17536
+Entering Long at 1.17672
+Take Profit 1 hit at 1.1781
+Exiting Long at 1.1781
+Entering Long at 1.1777
+Take Profit 1 hit at 1.17892
+Exiting Long at 1.17892
+Entering Long at 1.17909
+Take Profit 1 hit at 1.18081
+Exiting Long at 1.18081
+Entering Long at 1.18096
+Take Profit 1 hit at 1.18234
+Exiting Long at 1.18234
+Entering Long at 1.1802
+Take Profit 1 hit at 1.18146
+Exiting Long at 1.18146
+Entering Long at 1.18198
+Take Profit 1 hit at 1.18332
+Exiting Long at 1.18332
+Entering Long at 1.18145
+Take Profit 1 hit at 1.18268
+Exiting Long at 1.18268
+Entering Long at 1.1831
+Take Profit 1 hit at 1.18463
+Exiting Long at 1.18463
+Entering Long at 1.17894
+Stop Loss hit, exiting Long at 1.14352
+Entering Long at 1.1469
+Take Profit 1 hit at 1.14817
+Exiting Long at 1.14817
+Entering Long at 1.14602
+Take Profit 1 hit at 1.14728
+Exiting Long at 1.14728
+Entering Long at 1.14859
+Take Profit 1 hit at 1.14984
+Exiting Long at 1.14984
+Entering Long at 1.15235
+Take Profit 1 hit at 1.15372
+Exiting Long at 1.15372
+Entering Long at 1.15166
+Take Profit 1 hit at 1.15288
+Exiting Long at 1.15288
+Entering Long at 1.15152
+Take Profit 1 hit at 1.15276
+Exiting Long at 1.15276
+Entering Long at 1.15156
+Take Profit 1 hit at 1.15272
+Exiting Long at 1.15272
+Entering Long at 1.15302
+Take Profit 1 hit at 1.15466
+Exiting Long at 1.15466
+Entering Long at 1.15764
+Take Profit 1 hit at 1.15882
+Exiting Long at 1.15882
+Entering Long at 1.16039
+Take Profit 1 hit at 1.1616
+Exiting Long at 1.1616
+Entering Long at 1.15821
+Take Profit 1 hit at 1.15953
+Exiting Long at 1.15953
+Entering Long at 1.15984
+Take Profit 1 hit at 1.16157
+Exiting Long at 1.16157
+Entering Long at 1.16218
+Take Profit 1 hit at 1.1634
+Exiting Long at 1.1634
+Entering Long at 1.163
+Take Profit 1 hit at 1.16438
+Exiting Long at 1.16438
+Entering Long at 1.16791
+Take Profit 1 hit at 1.1691
+Exiting Long at 1.1691
+Entering Long at 1.16788
+Take Profit 1 hit at 1.1695
+Exiting Long at 1.1695
+Entering Long at 1.17114
+Take Profit 1 hit at 1.17236
+Exiting Long at 1.17236
+Entering Long at 1.16972
+Take Profit 1 hit at 1.1709
+Exiting Long at 1.1709
+Entering Long at 1.17053
+Take Profit 1 hit at 1.17187
+Exiting Long at 1.17187
+Entering Long at 1.1708
+Take Profit 1 hit at 1.17208
+Exiting Long at 1.17208
+Entering Long at 1.1695
+Take Profit 1 hit at 1.1707
+Exiting Long at 1.1707
+Entering Long at 1.16951
+Take Profit 1 hit at 1.17075
+Exiting Long at 1.17075
+Entering Long at 1.16859
+Take Profit 1 hit at 1.16984
+Exiting Long at 1.16984
+Entering Long at 1.17059
+Take Profit 1 hit at 1.17186
+Exiting Long at 1.17186
+Entering Long at 1.17508
+Take Profit 1 hit at 1.17627
+Exiting Long at 1.17627
+Entering Long at 1.17546
+Take Profit 1 hit at 1.17672
+Exiting Long at 1.17672
+Entering Long at 1.17758
+Take Profit 1 hit at 1.17892
+Exiting Long at 1.17892
+Entering Long at 1.17729
+Take Profit 1 hit at 1.17848
+Exiting Long at 1.17848
+Entering Long at 1.1795
+Take Profit 1 hit at 1.18075
+Exiting Long at 1.18075
+Entering Long at 1.17856
+Stop Loss hit, exiting Long at 1.1426
+Entering Long at 1.14065
+Take Profit 1 hit at 1.14182
+Exiting Long at 1.14182
+Entering Long at 1.14056
+Take Profit 1 hit at 1.14172
+Exiting Long at 1.14172
+Entering Long at 1.13987
+Take Profit 1 hit at 1.14106
+Exiting Long at 1.14106
+Entering Long at 1.13966
+Take Profit 1 hit at 1.1408
+Exiting Long at 1.1408
+Entering Long at 1.14052
+Take Profit 1 hit at 1.14186
+Exiting Long at 1.14186
+Entering Long at 1.13929
+Take Profit 1 hit at 1.14052
+Exiting Long at 1.14052
+Entering Long at 1.13929
+Take Profit 1 hit at 1.14058
+Exiting Long at 1.14058
+Entering Long at 1.13897
+Take Profit 1 hit at 1.14028
+Exiting Long at 1.14028
+Entering Long at 1.1393
+Take Profit 1 hit at 1.14063
+Exiting Long at 1.14063
+Entering Long at 1.14063
+Take Profit 1 hit at 1.14191
+Exiting Long at 1.14191
+Entering Long at 1.14178
+Take Profit 1 hit at 1.14366
+Exiting Long at 1.14366
+Entering Long at 1.14246
+Take Profit 1 hit at 1.14362
+Exiting Long at 1.14362
+Entering Long at 1.14398
+Take Profit 1 hit at 1.1453
+Exiting Long at 1.1453
+Entering Long at 1.14368
+Take Profit 1 hit at 1.1452
+Exiting Long at 1.1452
+Entering Long at 1.14402
+Take Profit 1 hit at 1.14518
+Exiting Long at 1.14518
+Entering Long at 1.1449
+Take Profit 1 hit at 1.14622
+Exiting Long at 1.14622
+Entering Long at 1.14827
+Take Profit 1 hit at 1.14952
+Exiting Long at 1.14952
+Entering Long at 1.14788
+Take Profit 1 hit at 1.14948
+Exiting Long at 1.14948
+Entering Long at 1.1512
+Take Profit 1 hit at 1.15255
+Exiting Long at 1.15255
+Entering Long at 1.15317
+Take Profit 1 hit at 1.15504
+Exiting Long at 1.15504
+Entering Long at 1.15472
+Take Profit 1 hit at 1.15594
+Exiting Long at 1.15594
+Entering Long at 1.15469
+Take Profit 1 hit at 1.15593
+Exiting Long at 1.15593
+Entering Long at 1.15594
+Stop Loss hit, exiting Long at 1.12072
+Entering Long at 1.12246
+Take Profit 1 hit at 1.124
+Exiting Long at 1.124
+Entering Long at 1.12389
+Take Profit 1 hit at 1.1254
+Exiting Long at 1.1254
+Entering Long at 1.12454
+Take Profit 1 hit at 1.12628
+Exiting Long at 1.12628
+Entering Long at 1.12594
+Take Profit 1 hit at 1.12713
+Exiting Long at 1.12713
+Entering Long at 1.12726
+Take Profit 1 hit at 1.12862
+Exiting Long at 1.12862
+Entering Long at 1.1279
+Take Profit 1 hit at 1.12903
+Exiting Long at 1.12903
+Entering Long at 1.12936
+Take Profit 1 hit at 1.1308
+Exiting Long at 1.1308
+Entering Long at 1.13029
+Take Profit 1 hit at 1.13148
+Exiting Long at 1.13148
+Entering Long at 1.13008
+Take Profit 1 hit at 1.13132
+Exiting Long at 1.13132
+Entering Long at 1.13253
+Take Profit 1 hit at 1.1337
+Exiting Long at 1.1337
+Entering Long at 1.13344
+Take Profit 1 hit at 1.13462
+Exiting Long at 1.13462
+Entering Long at 1.13506
+Take Profit 1 hit at 1.13627
+Exiting Long at 1.13627
+Entering Long at 1.13554
+Take Profit 1 hit at 1.13777
+Exiting Long at 1.13777
+Entering Long at 1.14195
+Take Profit 1 hit at 1.14316
+Exiting Long at 1.14316
+Entering Long at 1.14202
+Take Profit 1 hit at 1.14335
+Exiting Long at 1.14335
+Entering Long at 1.14248
+Take Profit 1 hit at 1.14372
+Exiting Long at 1.14372
+Entering Long at 1.14299
+Stop Loss hit, exiting Long at 1.10828
+Entering Long at 1.10743
+Take Profit 1 hit at 1.10856
+Exiting Long at 1.10856
+Entering Long at 1.1084
+Take Profit 1 hit at 1.10954
+Exiting Long at 1.10954
+Entering Long at 1.10834
+Take Profit 1 hit at 1.10976
+Exiting Long at 1.10976
+Entering Long at 1.10936
+Take Profit 1 hit at 1.11048
+Exiting Long at 1.11048
+Entering Long at 1.10959
+Take Profit 1 hit at 1.11073
+Exiting Long at 1.11073
+Entering Long at 1.11062
+Take Profit 1 hit at 1.11185
+Exiting Long at 1.11185
+Entering Long at 1.11225
+Take Profit 1 hit at 1.11344
+Exiting Long at 1.11344
+Entering Long at 1.11722
+Take Profit 1 hit at 1.11836
+Exiting Long at 1.11836
+Entering Long at 1.11801
+Take Profit 1 hit at 1.11918
+Exiting Long at 1.11918
+Entering Long at 1.11947
+Take Profit 1 hit at 1.12081
+Exiting Long at 1.12081
+Entering Long at 1.1202
+Take Profit 1 hit at 1.12138
+Exiting Long at 1.12138
+Entering Long at 1.12356
+Stop Loss hit, exiting Long at 1.08946
+Entering Long at 1.09048
+Take Profit 1 hit at 1.09165
+Exiting Long at 1.09165
+Entering Long at 1.09291
+Take Profit 1 hit at 1.09408
+Exiting Long at 1.09408
+Entering Long at 1.09378
+Take Profit 1 hit at 1.09496
+Exiting Long at 1.09496
+Entering Long at 1.0948
+Take Profit 1 hit at 1.09593
+Exiting Long at 1.09593
+Entering Long at 1.09598
+Take Profit 1 hit at 1.09732
+Exiting Long at 1.09732
+Entering Long at 1.09562
+Take Profit 1 hit at 1.09672
+Exiting Long at 1.09672
+Entering Long at 1.09582
+Take Profit 1 hit at 1.09852
+Exiting Long at 1.09852
+Entering Long at 1.09824
+Take Profit 1 hit at 1.09947
+Exiting Long at 1.09947
+Entering Long at 1.09878
+Take Profit 1 hit at 1.10028
+Exiting Long at 1.10028
+Entering Long at 1.10229
+Take Profit 1 hit at 1.10384
+Exiting Long at 1.10384
+Entering Long at 1.1042
+Take Profit 1 hit at 1.10532
+Exiting Long at 1.10532
+Entering Long at 1.10458
+Take Profit 1 hit at 1.10581
+Exiting Long at 1.10581
+Entering Long at 1.1073
+Take Profit 1 hit at 1.10843
+Exiting Long at 1.10843
+Entering Long at 1.10785
+Take Profit 1 hit at 1.1091
+Exiting Long at 1.1091
+Entering Long at 1.11094
+Take Profit 1 hit at 1.11208
+Exiting Long at 1.11208
+Entering Long at 1.11262
+Take Profit 1 hit at 1.11374
+Exiting Long at 1.11374
+Entering Long at 1.11429
+Take Profit 1 hit at 1.1155
+Exiting Long at 1.1155
+Entering Long at 1.115
+Take Profit 1 hit at 1.11619
+Exiting Long at 1.11619
+Entering Long at 1.11615
+Take Profit 1 hit at 1.11748
+Exiting Long at 1.11748
+Entering Long at 1.11666
+Take Profit 1 hit at 1.11788
+Exiting Long at 1.11788
+Entering Long at 1.11708
+Take Profit 1 hit at 1.1182
+Exiting Long at 1.1182
+Entering Long at 1.11772
+Take Profit 1 hit at 1.1189
+Exiting Long at 1.1189
+Entering Long at 1.11922
+Take Profit 1 hit at 1.12039
+Exiting Long at 1.12039
+Entering Long at 1.12032
+Take Profit 1 hit at 1.12153
+Exiting Long at 1.12153
+Entering Long at 1.12114
+Take Profit 1 hit at 1.12234
+Exiting Long at 1.12234
+Entering Long at 1.12299
+Stop Loss hit, exiting Long at 1.08928
+Entering Long at 1.08741
+Take Profit 1 hit at 1.08853
+Exiting Long at 1.08853
+Entering Long at 1.0882
+Take Profit 1 hit at 1.08951
+Exiting Long at 1.08951
+Entering Long at 1.08804
+Take Profit 1 hit at 1.0894
+Exiting Long at 1.0894
+Entering Long at 1.0878
+Take Profit 1 hit at 1.08895
+Exiting Long at 1.08895
+Entering Long at 1.08807
+Take Profit 1 hit at 1.08918
+Exiting Long at 1.08918
+Entering Long at 1.08915
+Take Profit 1 hit at 1.09032
+Exiting Long at 1.09032
+Entering Long at 1.0905
+Take Profit 1 hit at 1.09162
+Exiting Long at 1.09162
+Entering Long at 1.09336
+Take Profit 1 hit at 1.09446
+Exiting Long at 1.09446
+Entering Long at 1.09828
+Take Profit 1 hit at 1.09942
+Exiting Long at 1.09942
+Entering Long at 1.09838
+Take Profit 1 hit at 1.09957
+Exiting Long at 1.09957
+Entering Long at 1.09994
+Take Profit 1 hit at 1.10132
+Exiting Long at 1.10132
+Entering Long at 1.10358
+Take Profit 1 hit at 1.10469
+Exiting Long at 1.10469
+Entering Long at 1.10535
+Take Profit 1 hit at 1.10646
+Exiting Long at 1.10646
+Entering Long at 1.10484
+Take Profit 1 hit at 1.10595
+Exiting Long at 1.10595
+Entering Long at 1.10714
+Take Profit 1 hit at 1.10826
+Exiting Long at 1.10826
+Entering Long at 1.10906
+Take Profit 1 hit at 1.11034
+Exiting Long at 1.11034
+Entering Long at 1.11196
+Take Profit 1 hit at 1.11319
+Exiting Long at 1.11319
+Entering Long at 1.11466
+Take Profit 1 hit at 1.11588
+Exiting Long at 1.11588
+Entering Long at 1.11636
+Take Profit 1 hit at 1.11831
+Exiting Long at 1.11831
+Entering Long at 1.11602
+Take Profit 1 hit at 1.11752
+Exiting Long at 1.11752
+Entering Long at 1.11742
+Take Profit 1 hit at 1.11857
+Exiting Long at 1.11857
+Entering Long at 1.1171
+Take Profit 1 hit at 1.11844
+Exiting Long at 1.11844
+Entering Long at 1.11734
+Take Profit 1 hit at 1.11869
+Exiting Long at 1.11869
+Entering Long at 1.11585
+Take Profit 1 hit at 1.11698
+Exiting Long at 1.11698
+Entering Long at 1.11542
+Take Profit 1 hit at 1.11667
+Exiting Long at 1.11667
+Entering Long at 1.116
+Take Profit 1 hit at 1.11715
+Exiting Long at 1.11715
+Entering Long at 1.11756
+Take Profit 1 hit at 1.11882
+Exiting Long at 1.11882
+Entering Long at 1.11828
+Take Profit 1 hit at 1.11948
+Exiting Long at 1.11948
+Entering Long at 1.11988
+Take Profit 1 hit at 1.1216
+Exiting Long at 1.1216
+Entering Long at 1.12042
+Take Profit 1 hit at 1.12162
+Exiting Long at 1.12162
+Entering Long at 1.12304
+Take Profit 1 hit at 1.12424
+Exiting Long at 1.12424
+Entering Long at 1.12278
+Take Profit 1 hit at 1.12414
+Exiting Long at 1.12414
+Entering Long at 1.13068
+Take Profit 1 hit at 1.13194
+Exiting Long at 1.13194
+Entering Long at 1.13357
+Take Profit 1 hit at 1.13488
+Exiting Long at 1.13488
+Entering Long at 1.13106
+Take Profit 1 hit at 1.13222
+Exiting Long at 1.13222
+Entering Long at 1.1314
+Take Profit 1 hit at 1.13254
+Exiting Long at 1.13254
+Entering Long at 1.13037
+Take Profit 1 hit at 1.13499
+Exiting Long at 1.13499
+Entering Long at 1.13726
+Take Profit 1 hit at 1.13849
+Exiting Long at 1.13849
+Entering Long at 1.1375
+Take Profit 1 hit at 1.13892
+Exiting Long at 1.13892
+Entering Long at 1.1378
+Take Profit 1 hit at 1.13956
+Exiting Long at 1.13956
+Entering Long at 1.1408
+Take Profit 1 hit at 1.1421
+Exiting Long at 1.1421
+Entering Long at 1.14094
+Take Profit 1 hit at 1.14234
+Exiting Long at 1.14234
+Entering Long at 1.14246
+Take Profit 1 hit at 1.14376
+Exiting Long at 1.14376
+Entering Long at 1.14032
+Take Profit 1 hit at 1.14162
+Exiting Long at 1.14162
+Entering Long at 1.14448
+Take Profit 1 hit at 1.14572
+Exiting Long at 1.14572
+Entering Long at 1.1416
+Take Profit 1 hit at 1.14378
+Exiting Long at 1.14378
+Entering Long at 1.14548
+Take Profit 1 hit at 1.14689
+Exiting Long at 1.14689
+Entering Long at 1.14467
+Take Profit 1 hit at 1.14643
+Exiting Long at 1.14643
+Entering Long at 1.14706
+Stop Loss hit, exiting Long at 1.11228
+Entering Long at 1.1122
+Take Profit 1 hit at 1.11384
+Exiting Long at 1.11384
+Entering Long at 1.11866
+Take Profit 1 hit at 1.11984
+Exiting Long at 1.11984
+Entering Long at 1.12006
+Take Profit 1 hit at 1.12164
+Exiting Long at 1.12164
+Entering Long at 1.11972
+Stop Loss hit, exiting Long at 1.08546
+Entering Long at 1.08614
+Take Profit 1 hit at 1.08736
+Exiting Long at 1.08736
+Entering Long at 1.0907
+Take Profit 1 hit at 1.09196
+Exiting Long at 1.09196
+Entering Long at 1.09388
+Take Profit 1 hit at 1.09502
+Exiting Long at 1.09502
+Entering Long at 1.09456
+Take Profit 1 hit at 1.09566
+Exiting Long at 1.09566
+Entering Long at 1.09762
+Take Profit 1 hit at 1.09874
+Exiting Long at 1.09874
+Entering Long at 1.10312
+Take Profit 1 hit at 1.10423
+Exiting Long at 1.10423
+Entering Long at 1.10358
+Take Profit 1 hit at 1.1047
+Exiting Long at 1.1047
+Entering Long at 1.10428
+Take Profit 1 hit at 1.10563
+Exiting Long at 1.10563
+Entering Long at 1.10589
+Take Profit 1 hit at 1.10724
+Exiting Long at 1.10724
+Entering Long at 1.10691
+Take Profit 1 hit at 1.10906
+Exiting Long at 1.10906
+Entering Long at 1.11207
+Take Profit 1 hit at 1.11374
+Exiting Long at 1.11374
+Entering Long at 1.11176
+Stop Loss hit, exiting Long at 1.07821
+Entering Long at 1.07758
+Take Profit 1 hit at 1.07871
+Exiting Long at 1.07871
+Entering Long at 1.07953
+Take Profit 1 hit at 1.08065
+Exiting Long at 1.08065
+Entering Long at 1.07794
+Take Profit 1 hit at 1.07906
+Exiting Long at 1.07906
+Entering Long at 1.07998
+Take Profit 1 hit at 1.08142
+Exiting Long at 1.08142
+Entering Long at 1.0808
+Take Profit 1 hit at 1.08192
+Exiting Long at 1.08192
+Entering Long at 1.08074
+Take Profit 1 hit at 1.08186
+Exiting Long at 1.08186
+Entering Long at 1.081
+Take Profit 1 hit at 1.08218
+Exiting Long at 1.08218
+Entering Long at 1.08134
+Take Profit 1 hit at 1.08251
+Exiting Long at 1.08251
+Entering Long at 1.08154
+Take Profit 1 hit at 1.08278
+Exiting Long at 1.08278
+Entering Long at 1.07998
+Take Profit 1 hit at 1.08112
+Exiting Long at 1.08112
+Entering Long at 1.08004
+Take Profit 1 hit at 1.08148
+Exiting Long at 1.08148
+Entering Long at 1.07956
+Take Profit 1 hit at 1.08064
+Exiting Long at 1.08064
+Entering Long at 1.08538
+Take Profit 1 hit at 1.08654
+Exiting Long at 1.08654
+Entering Long at 1.08741
+Take Profit 1 hit at 1.08855
+Exiting Long at 1.08855
+Entering Long at 1.08654
+Take Profit 1 hit at 1.08777
+Exiting Long at 1.08777
+Entering Long at 1.08824
+Take Profit 1 hit at 1.08943
+Exiting Long at 1.08943
+Entering Long at 1.08878
+Take Profit 1 hit at 1.08996
+Exiting Long at 1.08996
+Entering Long at 1.09034
+Take Profit 1 hit at 1.0918
+Exiting Long at 1.0918
+Entering Long at 1.09282
+Take Profit 1 hit at 1.09394
+Exiting Long at 1.09394
+Entering Long at 1.09372
+Take Profit 1 hit at 1.09484
+Exiting Long at 1.09484
+Entering Long at 1.09456
+Take Profit 1 hit at 1.09572
+Exiting Long at 1.09572
+Entering Long at 1.09536
+Take Profit 1 hit at 1.09668
+Exiting Long at 1.09668
+Entering Long at 1.0957
+Take Profit 1 hit at 1.0969
+Exiting Long at 1.0969
+Entering Long at 1.09762
+Take Profit 1 hit at 1.0989
+Exiting Long at 1.0989
+Entering Long at 1.09814
+Take Profit 1 hit at 1.0993
+Exiting Long at 1.0993
+Entering Long at 1.09884
+Take Profit 1 hit at 1.09995
+Exiting Long at 1.09995
+Entering Long at 1.09874
+Take Profit 1 hit at 1.09994
+Exiting Long at 1.09994
+Entering Long at 1.10078
+Take Profit 1 hit at 1.10194
+Exiting Long at 1.10194
+Entering Long at 1.10065
+Take Profit 1 hit at 1.10178
+Exiting Long at 1.10178
+Entering Long at 1.10184
+Take Profit 1 hit at 1.10302
+Exiting Long at 1.10302
+Entering Long at 1.10042
+Take Profit 1 hit at 1.10157
+Exiting Long at 1.10157
+Entering Long at 1.1078
+Take Profit 1 hit at 1.10912
+Exiting Long at 1.10912
+Entering Long at 1.10812
+Take Profit 1 hit at 1.10926
+Exiting Long at 1.10926
+Entering Long at 1.10948
+Take Profit 1 hit at 1.1107
+Exiting Long at 1.1107
+Entering Long at 1.10914
+Take Profit 1 hit at 1.1106
+Exiting Long at 1.1106
+Entering Long at 1.11292
+Take Profit 1 hit at 1.11418
+Exiting Long at 1.11418
+Entering Long at 1.11335
+Take Profit 1 hit at 1.11452
+Exiting Long at 1.11452
+Entering Long at 1.1151
+Take Profit 1 hit at 1.1163
+Exiting Long at 1.1163
+Entering Long at 1.11685
+Take Profit 1 hit at 1.11813
+Exiting Long at 1.11813
+Entering Long at 1.11734
+Take Profit 1 hit at 1.11876
+Exiting Long at 1.11876
+Entering Long at 1.11846
+Take Profit 1 hit at 1.11962
+Exiting Long at 1.11962
+Entering Long at 1.12026
+Take Profit 1 hit at 1.12148
+Exiting Long at 1.12148
+Entering Long at 1.12017
+Take Profit 1 hit at 1.12137
+Exiting Long at 1.12137
+Entering Long at 1.121
+Take Profit 1 hit at 1.1225
+Exiting Long at 1.1225
+Entering Long at 1.12388
+Take Profit 1 hit at 1.12572
+Exiting Long at 1.12572
+Entering Long at 1.13396
+Take Profit 1 hit at 1.13511
+Exiting Long at 1.13511
+Entering Long at 1.13458
+Take Profit 1 hit at 1.1358
+Exiting Long at 1.1358
+Entering Long at 1.13593
+Take Profit 1 hit at 1.13719
+Exiting Long at 1.13719
+Entering Long at 1.1361
+Take Profit 1 hit at 1.13738
+Exiting Long at 1.13738
+Entering Long at 1.1372
+Take Profit 1 hit at 1.13842
+Exiting Long at 1.13842
+Entering Long at 1.13624
+Take Profit 1 hit at 1.13744
+Exiting Long at 1.13744
+Entering Long at 1.1363
+Take Profit 1 hit at 1.13812
+Exiting Long at 1.13812
+Entering Long at 1.13648
+Take Profit 1 hit at 1.13778
+Exiting Long at 1.13778
+Entering Long at 1.13803
+Take Profit 1 hit at 1.13944
+Exiting Long at 1.13944
+Entering Long at 1.13856
+Take Profit 1 hit at 1.14012
+Exiting Long at 1.14012
+Entering Long at 1.13702
+Take Profit 1 hit at 1.13891
+Exiting Long at 1.13891
+Entering Long at 1.13656
+Take Profit 1 hit at 1.13772
+Exiting Long at 1.13772
+Entering Long at 1.12975
+Take Profit 1 hit at 1.13094
+Exiting Long at 1.13094
+Entering Long at 1.13232
+Take Profit 1 hit at 1.13353
+Exiting Long at 1.13353
+Entering Long at 1.133
+Take Profit 1 hit at 1.13428
+Exiting Long at 1.13428
+Entering Long at 1.13365
+Take Profit 1 hit at 1.13486
+Exiting Long at 1.13486
+Entering Long at 1.13258
+Take Profit 1 hit at 1.13372
+Exiting Long at 1.13372
+Entering Long at 1.13394
+Take Profit 1 hit at 1.13608
+Exiting Long at 1.13608
+Entering Long at 1.13602
+Take Profit 1 hit at 1.13728
+Exiting Long at 1.13728
+Entering Long at 1.13675
+Take Profit 1 hit at 1.13794
+Exiting Long at 1.13794
+Entering Long at 1.13656
+Take Profit 1 hit at 1.13778
+Exiting Long at 1.13778
+Entering Long at 1.13848
+Take Profit 1 hit at 1.13963
+Exiting Long at 1.13963
+Entering Long at 1.13983
+Take Profit 1 hit at 1.14099
+Exiting Long at 1.14099
+Entering Long at 1.14066
+Take Profit 1 hit at 1.14182
+Exiting Long at 1.14182
+Entering Long at 1.14094
+Take Profit 1 hit at 1.14296
+Exiting Long at 1.14296
+Entering Long at 1.14283
+Take Profit 1 hit at 1.14415
+Exiting Long at 1.14415
+Entering Long at 1.1434
+Take Profit 1 hit at 1.14457
+Exiting Long at 1.14457
+Entering Long at 1.14364
+Take Profit 1 hit at 1.14496
+Exiting Long at 1.14496
+Entering Long at 1.14513
+Take Profit 1 hit at 1.14648
+Exiting Long at 1.14648
+Entering Long at 1.14489
+Take Profit 1 hit at 1.14604
+Exiting Long at 1.14604
+Entering Long at 1.14619
+Take Profit 1 hit at 1.14747
+Exiting Long at 1.14747
+Entering Long at 1.15286
+Take Profit 1 hit at 1.15409
+Exiting Long at 1.15409
+Entering Long at 1.15316
+Take Profit 1 hit at 1.15448
+Exiting Long at 1.15448
+Entering Long at 1.15397
+Take Profit 1 hit at 1.15624
+Exiting Long at 1.15624
+Entering Long at 1.15585
+Take Profit 1 hit at 1.15712
+Exiting Long at 1.15712
+Entering Long at 1.15903
+Take Profit 1 hit at 1.1604
+Exiting Long at 1.1604
+Entering Long at 1.1611
+Take Profit 1 hit at 1.1624
+Exiting Long at 1.1624
+Entering Long at 1.16386
+Take Profit 1 hit at 1.16528
+Exiting Long at 1.16528
+Entering Long at 1.16446
+Take Profit 1 hit at 1.16576
+Exiting Long at 1.16576
+Entering Long at 1.1704
+Take Profit 1 hit at 1.17162
+Exiting Long at 1.17162
+Entering Long at 1.17024
+Take Profit 1 hit at 1.17156
+Exiting Long at 1.17156
+Entering Long at 1.17292
+Take Profit 1 hit at 1.17415
+Exiting Long at 1.17415
+Entering Long at 1.17508
+Take Profit 1 hit at 1.17702
+Exiting Long at 1.17702
+Entering Long at 1.17604
+Take Profit 1 hit at 1.17726
+Exiting Long at 1.17726
+Entering Long at 1.17584
+Take Profit 1 hit at 1.17722
+Exiting Long at 1.17722
+Entering Long at 1.17622
+Take Profit 1 hit at 1.17746
+Exiting Long at 1.17746
+Entering Long at 1.17939
+Take Profit 1 hit at 1.18082
+Exiting Long at 1.18082
+Entering Long at 1.18435
+Take Profit 1 hit at 1.1861
+Exiting Long at 1.1861
+Entering Long at 1.18856
+Take Profit 1 hit at 1.18982
+Exiting Long at 1.18982
+Entering Long at 1.18847
+Take Profit 1 hit at 1.18971
+Exiting Long at 1.18971
+Entering Long at 1.1875
+Take Profit 1 hit at 1.18879
+Exiting Long at 1.18879
+Entering Long at 1.18638
+Take Profit 1 hit at 1.18758
+Exiting Long at 1.18758
+Entering Long at 1.1871
+Take Profit 1 hit at 1.18832
+Exiting Long at 1.18832
+Entering Long at 1.1873
+Take Profit 1 hit at 1.1885
+Exiting Long at 1.1885
+Entering Long at 1.18754
+Take Profit 1 hit at 1.18876
+Exiting Long at 1.18876
+Entering Long at 1.18718
+Take Profit 1 hit at 1.18864
+Exiting Long at 1.18864
+Entering Long at 1.18865
+Take Profit 1 hit at 1.18998
+Exiting Long at 1.18998
+Entering Long at 1.1902
+Take Profit 1 hit at 1.19296
+Exiting Long at 1.19296
+Entering Long at 1.19415
+Take Profit 1 hit at 1.1954
+Exiting Long at 1.1954
+Entering Long at 1.19368
+Take Profit 1 hit at 1.19494
+Exiting Long at 1.19494
+Entering Long at 1.19846
+Take Profit 1 hit at 1.1998
+Exiting Long at 1.1998
+Entering Long at 1.19795
+Stop Loss hit, exiting Long at 1.162
+Entering Long at 1.16252
+Take Profit 1 hit at 1.16369
+Exiting Long at 1.16369
+Entering Long at 1.16302
+Take Profit 1 hit at 1.16426
+Exiting Long at 1.16426
+Entering Long at 1.16612
+Take Profit 1 hit at 1.1673
+Exiting Long at 1.1673
+Entering Long at 1.1672
+Take Profit 1 hit at 1.16838
+Exiting Long at 1.16838
+Entering Long at 1.16942
+Take Profit 1 hit at 1.17062
+Exiting Long at 1.17062
+Entering Long at 1.16955
+Take Profit 1 hit at 1.17095
+Exiting Long at 1.17095
+Entering Long at 1.1715
+Take Profit 1 hit at 1.1731
+Exiting Long at 1.1731
+Entering Long at 1.17258
+Take Profit 1 hit at 1.17392
+Exiting Long at 1.17392
+Entering Long at 1.17368
+Take Profit 1 hit at 1.17492
+Exiting Long at 1.17492
+Entering Long at 1.17514
+Take Profit 1 hit at 1.17634
+Exiting Long at 1.17634
+Entering Long at 1.17488
+Take Profit 1 hit at 1.17614
+Exiting Long at 1.17614
+Entering Long at 1.17576
+Take Profit 1 hit at 1.17697
+Exiting Long at 1.17697
+Entering Long at 1.1782
+Take Profit 1 hit at 1.17947
+Exiting Long at 1.17947
+Entering Long at 1.17886
+Take Profit 1 hit at 1.18045
+Exiting Long at 1.18045
+Entering Long at 1.17882
+Take Profit 1 hit at 1.18002
+Exiting Long at 1.18002
+Entering Long at 1.17824
+Take Profit 1 hit at 1.17962
+Exiting Long at 1.17962
+Entering Long at 1.17947
+Take Profit 1 hit at 1.18088
+Exiting Long at 1.18088
+Entering Long at 1.18058
+Take Profit 1 hit at 1.18193
+Exiting Long at 1.18193
+Entering Long at 1.18194
+Take Profit 1 hit at 1.18331
+Exiting Long at 1.18331
+Entering Long at 1.18283
+Take Profit 1 hit at 1.18422
+Exiting Long at 1.18422
+Entering Long at 1.18436
+Take Profit 1 hit at 1.18558
+Exiting Long at 1.18558
+Entering Long at 1.18497
+Take Profit 1 hit at 1.1867
+Exiting Long at 1.1867
+Entering Long at 1.18518
+Take Profit 1 hit at 1.18652
+Exiting Long at 1.18652
+Entering Long at 1.18488
+Take Profit 1 hit at 1.18611
+Exiting Long at 1.18611
+Entering Long at 1.18628
+Take Profit 1 hit at 1.18752
+Exiting Long at 1.18752
+Entering Long at 1.18667
+Take Profit 1 hit at 1.18793
+Exiting Long at 1.18793
+Entering Long at 1.18632
+Take Profit 1 hit at 1.18772
+Exiting Long at 1.18772
+Entering Long at 1.18822
+Take Profit 1 hit at 1.18946
+Exiting Long at 1.18946
+Entering Long at 1.1886
+Take Profit 1 hit at 1.18986
+Exiting Long at 1.18986
+Entering Long at 1.18922
+Take Profit 1 hit at 1.1905
+Exiting Long at 1.1905
+Entering Long at 1.18964
+Take Profit 1 hit at 1.19086
+Exiting Long at 1.19086
+Entering Long at 1.19032
+Take Profit 1 hit at 1.19156
+Exiting Long at 1.19156
+Entering Long at 1.19015
+Take Profit 1 hit at 1.19168
+Exiting Long at 1.19168
+Entering Long at 1.18984
+Take Profit 1 hit at 1.19108
+Exiting Long at 1.19108
+Entering Long at 1.19179
+Take Profit 1 hit at 1.19332
+Exiting Long at 1.19332
+Entering Long at 1.19294
+Take Profit 1 hit at 1.19414
+Exiting Long at 1.19414
+Entering Long at 1.19564
+Take Profit 1 hit at 1.19685
+Exiting Long at 1.19685
+Entering Long at 1.19667
+Take Profit 1 hit at 1.19792
+Exiting Long at 1.19792
+Entering Long at 1.19712
+Take Profit 1 hit at 1.1984
+Exiting Long at 1.1984
+Entering Long at 1.19848
+Take Profit 1 hit at 1.19968
+Exiting Long at 1.19968
+Entering Long at 1.19829
+Take Profit 1 hit at 1.19949
+Exiting Long at 1.19949
+Entering Long at 1.20026
+Take Profit 1 hit at 1.2017
+Exiting Long at 1.2017
+Entering Long at 1.2069
+Take Profit 1 hit at 1.20816
+Exiting Long at 1.20816
+Entering Long at 1.20758
+Take Profit 1 hit at 1.20938
+Exiting Long at 1.20938
+Entering Long at 1.20764
+Take Profit 1 hit at 1.2089
+Exiting Long at 1.2089
+Entering Long at 1.20952
+Take Profit 1 hit at 1.21078
+Exiting Long at 1.21078
+Entering Long at 1.21098
+Take Profit 1 hit at 1.21241
+Exiting Long at 1.21241
+Entering Long at 1.21198
+Take Profit 1 hit at 1.21323
+Exiting Long at 1.21323
+Entering Long at 1.21194
+Take Profit 1 hit at 1.21322
+Exiting Long at 1.21322
+Entering Long at 1.2145
+Take Profit 1 hit at 1.2159
+Exiting Long at 1.2159
+Entering Long at 1.21696
+Take Profit 1 hit at 1.21845
+Exiting Long at 1.21845
+Entering Long at 1.21948
+Take Profit 1 hit at 1.2208
+Exiting Long at 1.2208
+Entering Long at 1.22397
+Take Profit 1 hit at 1.2252
+Exiting Long at 1.2252
+Entering Long at 1.22534
+Take Profit 1 hit at 1.22678
+Exiting Long at 1.22678
+Entering Long at 1.22628
+Take Profit 1 hit at 1.2276
+Exiting Long at 1.2276
+Entering Long at 1.22828
+Take Profit 1 hit at 1.22964
+Exiting Long at 1.22964
+Entering Long at 1.22777
+Take Profit 1 hit at 1.22968
+Exiting Long at 1.22968
+Entering Long at 1.2298
+Take Profit 1 hit at 1.23215
+Exiting Long at 1.23215
+Entering Long at 1.22846
+Take Profit 1 hit at 1.22976
+Exiting Long at 1.22976
+Entering Long at 1.23232
+Take Profit 1 hit at 1.23362
+Exiting Long at 1.23362
+Entering Long at 1.23438
+Stop Loss hit, exiting Long at 1.19727
+Entering Long at 1.19788
+Take Profit 1 hit at 1.19929
+Exiting Long at 1.19929
+Entering Long at 1.20345
+Take Profit 1 hit at 1.2047
+Exiting Long at 1.2047
+Entering Long at 1.20412
+Take Profit 1 hit at 1.2055
+Exiting Long at 1.2055
+Entering Long at 1.20469
+Take Profit 1 hit at 1.20595
+Exiting Long at 1.20595
+Entering Long at 1.20757
+Take Profit 1 hit at 1.20927
+Exiting Long at 1.20927
+Entering Long at 1.21018
+Take Profit 1 hit at 1.21142
+Exiting Long at 1.21142
+Entering Long at 1.21158
+Take Profit 1 hit at 1.21283
+Exiting Long at 1.21283
+Entering Long at 1.21268
+Take Profit 1 hit at 1.21395
+Exiting Long at 1.21395
+Entering Long at 1.214
+Take Profit 1 hit at 1.21564
+Exiting Long at 1.21564
+Entering Long at 1.21588
+Take Profit 1 hit at 1.21712
+Exiting Long at 1.21712
+Entering Long at 1.21652
+Take Profit 1 hit at 1.21788
+Exiting Long at 1.21788
+Entering Long at 1.21652
+Take Profit 1 hit at 1.21774
+Exiting Long at 1.21774
+Entering Long at 1.21761
+Take Profit 1 hit at 1.21884
+Exiting Long at 1.21884
+Entering Long at 1.22202
+Take Profit 1 hit at 1.22327
+Exiting Long at 1.22327
+Entering Long at 1.22322
+Stop Loss hit, exiting Long at 1.18652
+Entering Long at 1.18718
+Take Profit 1 hit at 1.18848
+Exiting Long at 1.18848
+Entering Long at 1.18652
+Take Profit 1 hit at 1.1879
+Exiting Long at 1.1879
+Entering Long at 1.18999
+Take Profit 1 hit at 1.19148
+Exiting Long at 1.19148
+Entering Long at 1.19052
+Take Profit 1 hit at 1.19172
+Exiting Long at 1.19172
+Entering Long at 1.19254
+Take Profit 1 hit at 1.19376
+Exiting Long at 1.19376
+Entering Long at 1.19584
+Take Profit 1 hit at 1.19722
+Exiting Long at 1.19722
+Entering Long at 1.19659
+Take Profit 1 hit at 1.19842
+Exiting Long at 1.19842
+Entering Long at 1.1986
+Take Profit 1 hit at 1.2004
+Exiting Long at 1.2004
+Entering Long at 1.20321
+Take Profit 1 hit at 1.20442
+Exiting Long at 1.20442
+Entering Long at 1.20393
+Take Profit 1 hit at 1.20534
+Exiting Long at 1.20534
+Entering Long at 1.20614
+Take Profit 1 hit at 1.20774
+Exiting Long at 1.20774
+Entering Long at 1.20604
+Take Profit 1 hit at 1.20731
+Exiting Long at 1.20731
+Entering Long at 1.20642
+Take Profit 1 hit at 1.20766
+Exiting Long at 1.20766
+Entering Long at 1.2094
+Take Profit 1 hit at 1.21071
+Exiting Long at 1.21071
+Entering Long at 1.21096
+Take Profit 1 hit at 1.2125
+Exiting Long at 1.2125
+Entering Long at 1.21422
+Take Profit 1 hit at 1.21548
+Exiting Long at 1.21548
+Entering Long at 1.21532
+Take Profit 1 hit at 1.21654
+Exiting Long at 1.21654
+Entering Long at 1.21634
+Take Profit 1 hit at 1.21758
+Exiting Long at 1.21758
+Entering Long at 1.2167
+Take Profit 1 hit at 1.21796
+Exiting Long at 1.21796
+Entering Long at 1.21588
+Take Profit 1 hit at 1.2171
+Exiting Long at 1.2171
+Entering Long at 1.21561
+Take Profit 1 hit at 1.21696
+Exiting Long at 1.21696
+Entering Long at 1.21708
+Take Profit 1 hit at 1.2185
+Exiting Long at 1.2185
+Entering Long at 1.22093
+Take Profit 1 hit at 1.22224
+Exiting Long at 1.22224
+Entering Long at 1.22168
+Take Profit 1 hit at 1.22296
+Exiting Long at 1.22296
+Entering Long at 1.22232
+Take Profit 1 hit at 1.22366
+Exiting Long at 1.22366
+Entering Long at 1.22336
+Take Profit 1 hit at 1.22472
+Exiting Long at 1.22472
+Entering Long at 1.22504
+Take Profit 1 hit at 1.22629
+Exiting Long at 1.22629
+Entering Long at 1.22525
+Stop Loss hit, exiting Long at 1.1883
+Entering Long at 1.1872
+Take Profit 1 hit at 1.1884
+Exiting Long at 1.1884
+Entering Long at 1.18888
+Take Profit 1 hit at 1.19046
+Exiting Long at 1.19046
+Entering Long at 1.19044
+Take Profit 1 hit at 1.19172
+Exiting Long at 1.19172
+Entering Long at 1.19188
+Take Profit 1 hit at 1.19357
+Exiting Long at 1.19357
+Entering Long at 1.19388
+Take Profit 1 hit at 1.1951
+Exiting Long at 1.1951
+Entering Long at 1.19512
+Take Profit 1 hit at 1.19632
+Exiting Long at 1.19632
+Entering Long at 1.19588
+Stop Loss hit, exiting Long at 1.15956
+Entering Long at 1.16032
+Take Profit 1 hit at 1.1615
+Exiting Long at 1.1615
+Entering Long at 1.1609
+Take Profit 1 hit at 1.16208
+Exiting Long at 1.16208
+Entering Long at 1.163
+Take Profit 1 hit at 1.16418
+Exiting Long at 1.16418
+Entering Long at 1.16489
+Take Profit 1 hit at 1.16608
+Exiting Long at 1.16608
+Entering Long at 1.16536
+Take Profit 1 hit at 1.16686
+Exiting Long at 1.16686
+Entering Long at 1.1659
+Take Profit 1 hit at 1.16728
+Exiting Long at 1.16728
+Entering Long at 1.16778
+Take Profit 1 hit at 1.16896
+Exiting Long at 1.16896
+Entering Long at 1.1682
+Stop Loss hit, exiting Long at 1.13304
+Entering Long at 1.13521
+Take Profit 1 hit at 1.13642
+Exiting Long at 1.13642
+Entering Long at 1.13672
+Take Profit 1 hit at 1.13791
+Exiting Long at 1.13791
+Entering Long at 1.1359
+Take Profit 1 hit at 1.1371
+Exiting Long at 1.1371
+Entering Long at 1.13792
+Take Profit 1 hit at 1.13906
+Exiting Long at 1.13906
+Entering Long at 1.14457
+Take Profit 1 hit at 1.14573
+Exiting Long at 1.14573
+Entering Long at 1.1464
+Take Profit 1 hit at 1.14758
+Exiting Long at 1.14758
+Entering Long at 1.14771
+Stop Loss hit, exiting Long at 1.11304
+Entering Long at 1.11392
+Take Profit 1 hit at 1.11528
+Exiting Long at 1.11528
+Entering Long at 1.1144
+Take Profit 1 hit at 1.1159
+Exiting Long at 1.1159
+Entering Long at 1.11512
+Take Profit 1 hit at 1.11632
+Exiting Long at 1.11632
+Entering Long at 1.11614
+Take Profit 1 hit at 1.11738
+Exiting Long at 1.11738
+Entering Long at 1.11698
+Take Profit 1 hit at 1.1182
+Exiting Long at 1.1182
+Entering Long at 1.11695
+Take Profit 1 hit at 1.11852
+Exiting Long at 1.11852
+Entering Long at 1.1235
+Take Profit 1 hit at 1.1247
+Exiting Long at 1.1247
+Entering Long at 1.12694
+Take Profit 1 hit at 1.12816
+Exiting Long at 1.12816
+Entering Long at 1.12802
+Take Profit 1 hit at 1.12929
+Exiting Long at 1.12929
+Entering Long at 1.13134
+Take Profit 1 hit at 1.13258
+Exiting Long at 1.13258
+Entering Long at 1.14214
+Take Profit 1 hit at 1.14332
+Exiting Long at 1.14332
+Entering Long at 1.1444
+Take Profit 1 hit at 1.14578
+Exiting Long at 1.14578
+Entering Long at 1.14618
+Take Profit 1 hit at 1.14745
+Exiting Long at 1.14745
+Entering Long at 1.14576
+Take Profit 1 hit at 1.14704
+Exiting Long at 1.14704
+Entering Long at 1.14744
+Take Profit 1 hit at 1.14888
+Exiting Long at 1.14888
+Entering Long at 1.1471
+Stop Loss hit, exiting Long at 1.11245
+Entering Long at 1.11428
+Take Profit 1 hit at 1.11548
+Exiting Long at 1.11548
+Entering Long at 1.11928
+Take Profit 1 hit at 1.1205
+Exiting Long at 1.1205
+Entering Long at 1.11984
+Take Profit 1 hit at 1.12106
+Exiting Long at 1.12106
+Entering Long at 1.12173
+Take Profit 1 hit at 1.12334
+Exiting Long at 1.12334
+Entering Long at 1.12399
+Take Profit 1 hit at 1.12522
+Exiting Long at 1.12522
+Entering Long at 1.11534
+Take Profit 1 hit at 1.11706
+Exiting Long at 1.11706
+Entering Long at 1.11713
+Take Profit 1 hit at 1.1186
+Exiting Long at 1.1186
+Entering Long at 1.11922
+Take Profit 1 hit at 1.12034
+Exiting Long at 1.12034
+Entering Long at 1.1208
+Take Profit 1 hit at 1.12213
+Exiting Long at 1.12213
+Entering Long at 1.12064
+Take Profit 1 hit at 1.12196
+Exiting Long at 1.12196
+Entering Long at 1.12376
+Stop Loss hit, exiting Long at 1.09004
+Entering Long at 1.09238
+Take Profit 1 hit at 1.09352
+Exiting Long at 1.09352
+Entering Long at 1.09239
+Take Profit 1 hit at 1.09349
+Exiting Long at 1.09349
+Entering Long at 1.09254
+Take Profit 1 hit at 1.09374
+Exiting Long at 1.09374
+Entering Long at 1.09136
+Take Profit 1 hit at 1.09248
+Exiting Long at 1.09248
+Entering Long at 1.09169
+Take Profit 1 hit at 1.09302
+Exiting Long at 1.09302
+Entering Long at 1.09685
+Take Profit 1 hit at 1.09842
+Exiting Long at 1.09842
+Entering Long at 1.10672
+Take Profit 1 hit at 1.10788
+Exiting Long at 1.10788
+Entering Long at 1.10646
+Take Profit 1 hit at 1.1076
+Exiting Long at 1.1076
+Entering Long at 1.10674
+Take Profit 1 hit at 1.10958
+Exiting Long at 1.10958
+Entering Long at 1.10421
+Take Profit 1 hit at 1.10557
+Exiting Long at 1.10557
+Entering Long at 1.10415
+Take Profit 1 hit at 1.1053
+Exiting Long at 1.1053
+Entering Long at 1.10556
+Take Profit 1 hit at 1.10692
+Exiting Long at 1.10692
+Entering Long at 1.1126
+Take Profit 1 hit at 1.11418
+Exiting Long at 1.11418
+Entering Long at 1.11249
+Take Profit 1 hit at 1.11364
+Exiting Long at 1.11364
+Entering Long at 1.11398
+Take Profit 1 hit at 1.11552
+Exiting Long at 1.11552
+Entering Long at 1.11553
+Take Profit 1 hit at 1.11666
+Exiting Long at 1.11666
+Entering Long at 1.11693
+Stop Loss hit, exiting Long at 1.0834
+Entering Long at 1.08298
+Take Profit 1 hit at 1.08408
+Exiting Long at 1.08408
+Entering Long at 1.08344
+Take Profit 1 hit at 1.08475
+Exiting Long at 1.08475
+Entering Long at 1.08306
+Take Profit 1 hit at 1.0842
+Exiting Long at 1.0842
+Entering Long at 1.08841
+Take Profit 1 hit at 1.08956
+Exiting Long at 1.08956
+Entering Long at 1.08894
+Take Profit 1 hit at 1.09037
+Exiting Long at 1.09037
+Entering Long at 1.09108
+Take Profit 1 hit at 1.09259
+Exiting Long at 1.09259
+Entering Long at 1.09102
+Stop Loss hit, exiting Long at 1.05812
+Entering Long at 1.05441
+Take Profit 1 hit at 1.05548
+Exiting Long at 1.05548
+Entering Long at 1.05597
+Take Profit 1 hit at 1.05712
+Exiting Long at 1.05712
+Entering Long at 1.05634
+Take Profit 1 hit at 1.05744
+Exiting Long at 1.05744
+Entering Long at 1.05402
+Take Profit 1 hit at 1.05532
+Exiting Long at 1.05532
+Entering Long at 1.05614
+Take Profit 1 hit at 1.05732
+Exiting Long at 1.05732
+Entering Long at 1.05496
+Take Profit 1 hit at 1.05612
+Exiting Long at 1.05612
+Entering Long at 1.0527
+Take Profit 1 hit at 1.0539
+Exiting Long at 1.0539
+Entering Long at 1.05202
+Take Profit 1 hit at 1.05341
+Exiting Long at 1.05341
+Entering Long at 1.0519
+Take Profit 1 hit at 1.05306
+Exiting Long at 1.05306
+Entering Long at 1.05206
+Take Profit 1 hit at 1.05328
+Exiting Long at 1.05328
+Entering Long at 1.05174
+Take Profit 1 hit at 1.0529
+Exiting Long at 1.0529
+Entering Long at 1.0531
+Take Profit 1 hit at 1.05418
+Exiting Long at 1.05418
+Entering Long at 1.0539
+Take Profit 1 hit at 1.05516
+Exiting Long at 1.05516
+Entering Long at 1.0545
+Take Profit 1 hit at 1.05611
+Exiting Long at 1.05611
+Entering Long at 1.052
+Take Profit 1 hit at 1.05316
+Exiting Long at 1.05316
+Entering Long at 1.05926
+Take Profit 1 hit at 1.06078
+Exiting Long at 1.06078
+Entering Long at 1.06222
+Take Profit 1 hit at 1.06329
+Exiting Long at 1.06329
+Entering Long at 1.0616
+Take Profit 1 hit at 1.06298
+Exiting Long at 1.06298
+Entering Long at 1.06168
+Take Profit 1 hit at 1.06318
+Exiting Long at 1.06318
+Entering Long at 1.06642
+Take Profit 1 hit at 1.0676
+Exiting Long at 1.0676
+Entering Long at 1.0677
+Take Profit 1 hit at 1.06884
+Exiting Long at 1.06884
+Entering Long at 1.06698
+Take Profit 1 hit at 1.06806
+Exiting Long at 1.06806
+Entering Long at 1.06862
+Take Profit 1 hit at 1.07088
+Exiting Long at 1.07088
+Entering Long at 1.07103
+Take Profit 1 hit at 1.07241
+Exiting Long at 1.07241
+Entering Long at 1.06992
+Take Profit 1 hit at 1.07106
+Exiting Long at 1.07106
+Entering Long at 1.07183
+Take Profit 1 hit at 1.07304
+Exiting Long at 1.07304
+Entering Long at 1.07348
+Take Profit 1 hit at 1.07484
+Exiting Long at 1.07484
+Entering Long at 1.07557
+Take Profit 1 hit at 1.07691
+Exiting Long at 1.07691
+Entering Long at 1.07492
+Take Profit 1 hit at 1.07612
+Exiting Long at 1.07612
+Entering Long at 1.07684
+Take Profit 1 hit at 1.07812
+Exiting Long at 1.07812
+Entering Long at 1.07822
+Stop Loss hit, exiting Long at 1.04586
+Entering Long at 1.04829
+Take Profit 1 hit at 1.05069
+Exiting Long at 1.05069
+Entering Long at 1.04693
+Take Profit 1 hit at 1.04814
+Exiting Long at 1.04814
+Entering Long at 1.05658
+Take Profit 1 hit at 1.05766
+Exiting Long at 1.05766
+Entering Long at 1.05536
+Take Profit 1 hit at 1.05644
+Exiting Long at 1.05644
+Entering Long at 1.05646
+Take Profit 1 hit at 1.05783
+Exiting Long at 1.05783
+Entering Long at 1.05764
+Take Profit 1 hit at 1.05896
+Exiting Long at 1.05896
+Entering Long at 1.05701
+Take Profit 1 hit at 1.05811
+Exiting Long at 1.05811
+Entering Long at 1.05856
+Take Profit 1 hit at 1.05964
+Exiting Long at 1.05964
+Entering Long at 1.05914
+Take Profit 1 hit at 1.06038
+Exiting Long at 1.06038
+Entering Long at 1.05756
+Take Profit 1 hit at 1.05867
+Exiting Long at 1.05867
+Entering Long at 1.05881
+Stop Loss hit, exiting Long at 1.02691
+Entering Long at 1.02575
+Take Profit 1 hit at 1.0268
+Exiting Long at 1.0268
+Entering Long at 1.02566
+Take Profit 1 hit at 1.02669
+Exiting Long at 1.02669
+Entering Long at 1.0269
+Stop Loss hit, exiting Long at 0.99607
+Entering Long at 0.99876
+Take Profit 1 hit at 0.99986
+Exiting Long at 0.99986
+Entering Long at 1.00115
+Take Profit 1 hit at 1.00216
+Exiting Long at 1.00216
+Entering Long at 1.00194
+Take Profit 1 hit at 1.00302
+Exiting Long at 1.00302
+Entering Long at 1.00276
+Take Profit 1 hit at 1.00381
+Exiting Long at 1.00381
+Entering Long at 1.0047
+Take Profit 1 hit at 1.00581
+Exiting Long at 1.00581
+Entering Long at 1.00728
+Take Profit 1 hit at 1.0084
+Exiting Long at 1.0084
+Entering Long at 1.00522
+Take Profit 1 hit at 1.00646
+Exiting Long at 1.00646
+Entering Long at 1.00712
+Take Profit 1 hit at 1.00832
+Exiting Long at 1.00832
+Entering Long at 1.0081
+Take Profit 1 hit at 1.00926
+Exiting Long at 1.00926
+Entering Long at 1.00784
+Take Profit 1 hit at 1.0089
+Exiting Long at 1.0089
+Entering Long at 1.00826
+Take Profit 1 hit at 1.00928
+Exiting Long at 1.00928
+Entering Long at 1.00886
+Take Profit 1 hit at 1.00989
+Exiting Long at 1.00989
+Entering Long at 1.0101
+Take Profit 1 hit at 1.0117
+Exiting Long at 1.0117
+Entering Long at 1.0124
+Take Profit 1 hit at 1.01348
+Exiting Long at 1.01348
+Entering Long at 1.01408
+Take Profit 1 hit at 1.01553
+Exiting Long at 1.01553
+Entering Long at 1.01444
+Take Profit 1 hit at 1.0155
+Exiting Long at 1.0155
+Entering Long at 1.01742
+Take Profit 1 hit at 1.01878
+Exiting Long at 1.01878
+Entering Long at 1.02408
+Take Profit 1 hit at 1.02556
+Exiting Long at 1.02556
+Entering Long at 1.023
+Take Profit 1 hit at 1.02444
+Exiting Long at 1.02444
+Entering Long at 1.02308
+Take Profit 1 hit at 1.02413
+Exiting Long at 1.02413
+Entering Long at 1.02356
+Take Profit 1 hit at 1.02462
+Exiting Long at 1.02462
+Entering Long at 1.0235
+Take Profit 1 hit at 1.0246
+Exiting Long at 1.0246
+Entering Long at 1.02382
+Take Profit 1 hit at 1.02494
+Exiting Long at 1.02494
+Entering Long at 1.02325
+Take Profit 1 hit at 1.0243
+Exiting Long at 1.0243
+Entering Long at 1.02516
+Take Profit 1 hit at 1.02624
+Exiting Long at 1.02624
+Entering Long at 1.02098
+Take Profit 1 hit at 1.02222
+Exiting Long at 1.02222
+Entering Long at 1.0226
+Take Profit 1 hit at 1.02385
+Exiting Long at 1.02385
+Entering Long at 1.0215
+Take Profit 1 hit at 1.0227
+Exiting Long at 1.0227
+Entering Long at 1.02338
+Take Profit 1 hit at 1.02477
+Exiting Long at 1.02477
+Entering Long at 1.02258
+Take Profit 1 hit at 1.02366
+Exiting Long at 1.02366
+Entering Long at 1.02401
+Take Profit 1 hit at 1.02532
+Exiting Long at 1.02532
+Entering Long at 1.02304
+Take Profit 1 hit at 1.02417
+Exiting Long at 1.02417
+Entering Long at 1.02498
+Take Profit 1 hit at 1.02632
+Exiting Long at 1.02632
+Entering Long at 1.02492
+Take Profit 1 hit at 1.02607
+Exiting Long at 1.02607
+Entering Long at 1.02658
+Take Profit 1 hit at 1.02796
+Exiting Long at 1.02796
+Entering Long at 1.02679
+Take Profit 1 hit at 1.02807
+Exiting Long at 1.02807
+Entering Long at 1.02808
+Take Profit 1 hit at 1.03165
+Exiting Long at 1.03165
+Entering Long at 1.03378
+Take Profit 1 hit at 1.03498
+Exiting Long at 1.03498
+Entering Long at 1.03388
+Stop Loss hit, exiting Long at 1.00271
+Entering Long at 1.00342
+Take Profit 1 hit at 1.00452
+Exiting Long at 1.00452
+Entering Long at 1.00362
+Take Profit 1 hit at 1.00593
+Exiting Long at 1.00593
+Entering Long at 1.00281
+Take Profit 1 hit at 1.00394
+Exiting Long at 1.00394
+Entering Long at 0.99725
+Take Profit 1 hit at 0.99829
+Exiting Long at 0.99829
+Entering Long at 0.99726
+Take Profit 1 hit at 0.99842
+Exiting Long at 0.99842
+Entering Long at 0.99892
+Take Profit 1 hit at 0.99997
+Exiting Long at 0.99997
+Entering Long at 0.99994
+Take Profit 1 hit at 1.00098
+Exiting Long at 1.00098
+Entering Long at 1.00014
+Take Profit 1 hit at 1.00118
+Exiting Long at 1.00118
+Entering Long at 1.00032
+Take Profit 1 hit at 1.00155
+Exiting Long at 1.00155
+Entering Long at 1.00306
+Take Profit 1 hit at 1.00424
+Exiting Long at 1.00424
+Entering Long at 1.00386
+Take Profit 1 hit at 1.00572
+Exiting Long at 1.00572
+Entering Long at 1.00516
+Take Profit 1 hit at 1.00623
+Exiting Long at 1.00623
+Entering Long at 1.00686
+Take Profit 1 hit at 1.00798
+Exiting Long at 1.00798
+Entering Long at 1.00676
+Take Profit 1 hit at 1.00782
+Exiting Long at 1.00782
+Entering Long at 1.00829
+Take Profit 1 hit at 1.00942
+Exiting Long at 1.00942
+Entering Long at 1.00961
+Take Profit 1 hit at 1.01088
+Exiting Long at 1.01088
+Entering Long at 1.01676
+Take Profit 1 hit at 1.01782
+Exiting Long at 1.01782
+Entering Long at 1.01708
+Stop Loss hit, exiting Long at 0.98324
+Entering Long at 0.98916
+Take Profit 1 hit at 0.99026
+Exiting Long at 0.99026
+Entering Long at 0.98438
+Take Profit 1 hit at 0.98566
+Exiting Long at 0.98566
+Entering Long at 0.98625
+Take Profit 1 hit at 0.98727
+Exiting Long at 0.98727
+Entering Long at 0.98836
+Stop Loss hit, exiting Long at 0.95695
+Entering Long at 0.96399
+Take Profit 1 hit at 0.96517
+Exiting Long at 0.96517
+Entering Long at 0.96674
+Take Profit 1 hit at 0.96776
+Exiting Long at 0.96776
+Entering Long at 0.96462
+Take Profit 1 hit at 0.96568
+Exiting Long at 0.96568
+Entering Long at 0.964
+Take Profit 1 hit at 0.96504
+Exiting Long at 0.96504
+Entering Long at 0.96309
+Take Profit 1 hit at 0.96434
+Exiting Long at 0.96434
+Entering Long at 0.96256
+Take Profit 1 hit at 0.96372
+Exiting Long at 0.96372
+Entering Long at 0.95938
+Take Profit 1 hit at 0.96128
+Exiting Long at 0.96128
+Entering Long at 0.97232
+Take Profit 1 hit at 0.97339
+Exiting Long at 0.97339
+Entering Long at 0.96686
+Take Profit 1 hit at 0.96789
+Exiting Long at 0.96789
+Entering Long at 0.9712
+Take Profit 1 hit at 0.97233
+Exiting Long at 0.97233
+Entering Long at 0.97266
+Take Profit 1 hit at 0.97373
+Exiting Long at 0.97373
+Entering Long at 0.97719
+Take Profit 1 hit at 0.97866
+Exiting Long at 0.97866
+Entering Long at 0.97894
+Take Profit 1 hit at 0.97996
+Exiting Long at 0.97996
+Entering Long at 0.98188
+Take Profit 1 hit at 0.98345
+Exiting Long at 0.98345
+Entering Long at 0.98168
+Take Profit 1 hit at 0.98281
+Exiting Long at 0.98281
+Entering Long at 0.98104
+Take Profit 1 hit at 0.98238
+Exiting Long at 0.98238
+Entering Long at 0.9811
+Take Profit 1 hit at 0.9824
+Exiting Long at 0.9824
+Entering Long at 0.982
+Take Profit 1 hit at 0.98322
+Exiting Long at 0.98322
+Entering Long at 0.97975
+Take Profit 1 hit at 0.9808
+Exiting Long at 0.9808
+Entering Long at 0.98162
+Take Profit 1 hit at 0.98267
+Exiting Long at 0.98267
+Entering Long at 0.98076
+Take Profit 1 hit at 0.98175
+Exiting Long at 0.98175
+Entering Long at 0.981
+Take Profit 1 hit at 0.98202
+Exiting Long at 0.98202
+Entering Long at 0.98236
+Take Profit 1 hit at 0.98348
+Exiting Long at 0.98348
+Entering Long at 0.98268
+Take Profit 1 hit at 0.98374
+Exiting Long at 0.98374
+Entering Long at 0.98568
+Take Profit 1 hit at 0.98692
+Exiting Long at 0.98692
+Entering Long at 0.98896
+Take Profit 1 hit at 0.99016
+Exiting Long at 0.99016
+Entering Long at 0.98834
+Take Profit 1 hit at 0.9896
+Exiting Long at 0.9896
+Entering Long at 0.99032
+Take Profit 1 hit at 0.99148
+Exiting Long at 0.99148
+Entering Long at 0.99678
+Take Profit 1 hit at 0.99801
+Exiting Long at 0.99801
+Entering Long at 0.99812
+Take Profit 1 hit at 0.99914
+Exiting Long at 0.99914
+Entering Long at 0.99856
+Stop Loss hit, exiting Long at 0.96858
+Entering Long at 0.97086
+Take Profit 1 hit at 0.97192
+Exiting Long at 0.97192
+Entering Long at 0.9697
+Take Profit 1 hit at 0.97089
+Exiting Long at 0.97089
+Entering Long at 0.97298
+Take Profit 1 hit at 0.97437
+Exiting Long at 0.97437
+Entering Long at 0.97509
+Take Profit 1 hit at 0.97612
+Exiting Long at 0.97612
+Entering Long at 0.9707
+Take Profit 1 hit at 0.97176
+Exiting Long at 0.97176
+Entering Long at 0.9708
+Take Profit 1 hit at 0.97179
+Exiting Long at 0.97179
+Entering Long at 0.97024
+Take Profit 1 hit at 0.9713
+Exiting Long at 0.9713
+Entering Long at 0.97176
+Take Profit 1 hit at 0.97276
+Exiting Long at 0.97276
+Entering Long at 0.97196
+Take Profit 1 hit at 0.97326
+Exiting Long at 0.97326
+Entering Long at 0.97362
+Take Profit 1 hit at 0.97482
+Exiting Long at 0.97482
+Entering Long at 0.96524
+Take Profit 1 hit at 0.96642
+Exiting Long at 0.96642
+Entering Long at 0.96974
+Take Profit 1 hit at 0.9711
+Exiting Long at 0.9711
+Entering Long at 0.9776
+Take Profit 1 hit at 0.9787
+Exiting Long at 0.9787
+Entering Long at 0.97848
+Take Profit 1 hit at 0.97956
+Exiting Long at 0.97956
+Entering Long at 0.97744
+Take Profit 1 hit at 0.97892
+Exiting Long at 0.97892
+Entering Long at 0.97471
+Take Profit 1 hit at 0.97584
+Exiting Long at 0.97584
+Entering Long at 0.97669
+Take Profit 1 hit at 0.9781
+Exiting Long at 0.9781
+Entering Long at 0.9835
+Take Profit 1 hit at 0.98457
+Exiting Long at 0.98457
+Entering Long at 0.98383
+Take Profit 1 hit at 0.98502
+Exiting Long at 0.98502
+Entering Long at 0.98491
+Take Profit 1 hit at 0.98616
+Exiting Long at 0.98616
+Entering Long at 0.98687
+Take Profit 1 hit at 0.98803
+Exiting Long at 0.98803
+Entering Long at 0.98697
+Take Profit 1 hit at 0.98852
+Exiting Long at 0.98852
+Entering Long at 0.98314
+Take Profit 1 hit at 0.98414
+Exiting Long at 0.98414
+Entering Long at 0.98376
+Take Profit 1 hit at 0.9851
+Exiting Long at 0.9851
+Entering Long at 0.98602
+Take Profit 1 hit at 0.98739
+Exiting Long at 0.98739
+Entering Long at 0.98742
+Take Profit 1 hit at 0.98854
+Exiting Long at 0.98854
+Entering Long at 0.988
+Take Profit 1 hit at 0.98917
+Exiting Long at 0.98917
+Entering Long at 0.98969
+Take Profit 1 hit at 0.99124
+Exiting Long at 0.99124
+Entering Long at 0.99538
+Take Profit 1 hit at 0.99645
+Exiting Long at 0.99645
+Entering Long at 0.99692
+Take Profit 1 hit at 0.99792
+Exiting Long at 0.99792
+Entering Long at 1.00178
+Take Profit 1 hit at 1.00296
+Exiting Long at 1.00296
+Entering Long at 1.00125
+Take Profit 1 hit at 1.0027
+Exiting Long at 1.0027
+Entering Long at 1.00316
+Take Profit 1 hit at 1.00433
+Exiting Long at 1.00433
+Entering Long at 1.00759
+Take Profit 1 hit at 1.00864
+Exiting Long at 1.00864
+Entering Long at 1.00856
+Stop Loss hit, exiting Long at 0.97804
+Entering Long at 0.97488
+Take Profit 1 hit at 0.97587
+Exiting Long at 0.97587
+Entering Long at 0.9764
+Take Profit 1 hit at 0.97738
+Exiting Long at 0.97738
+Entering Long at 0.9777
+Take Profit 1 hit at 0.97934
+Exiting Long at 0.97934
+Entering Long at 0.97714
+Take Profit 1 hit at 0.97822
+Exiting Long at 0.97822
+Entering Long at 0.97814
+Take Profit 1 hit at 0.9795
+Exiting Long at 0.9795
+Entering Long at 0.98121
+Take Profit 1 hit at 0.98232
+Exiting Long at 0.98232
+Entering Long at 0.98978
+Take Profit 1 hit at 0.99086
+Exiting Long at 0.99086
+Entering Long at 0.99188
+Take Profit 1 hit at 0.99291
+Exiting Long at 0.99291
+Entering Long at 0.99119
+Take Profit 1 hit at 0.99264
+Exiting Long at 0.99264
+Entering Long at 0.9927
+Take Profit 1 hit at 0.99391
+Exiting Long at 0.99391
+Entering Long at 0.994
+Take Profit 1 hit at 0.99524
+Exiting Long at 0.99524
+Entering Long at 0.99769
+Take Profit 1 hit at 0.99874
+Exiting Long at 0.99874
+Entering Long at 0.9992
+Take Profit 1 hit at 1.00024
+Exiting Long at 1.00024
+Entering Long at 1.00232
+Take Profit 1 hit at 1.00346
+Exiting Long at 1.00346
+Entering Long at 1.00774
+Take Profit 1 hit at 1.01002
+Exiting Long at 1.01002
+Entering Long at 1.01496
+Take Profit 1 hit at 1.01604
+Exiting Long at 1.01604
+Entering Long at 1.01636
+Take Profit 1 hit at 1.0174
+Exiting Long at 1.0174
+Entering Long at 1.0198
+Take Profit 1 hit at 1.02116
+Exiting Long at 1.02116
+Entering Long at 1.02412
+Take Profit 1 hit at 1.02534
+Exiting Long at 1.02534
+Entering Long at 1.02682
+Take Profit 1 hit at 1.02789
+Exiting Long at 1.02789
+Entering Long at 1.02966
+Take Profit 1 hit at 1.031
+Exiting Long at 1.031
+Entering Long at 1.03134
+Take Profit 1 hit at 1.0324
+Exiting Long at 1.0324
+Entering Long at 1.03532
+Take Profit 1 hit at 1.03648
+Exiting Long at 1.03648
+Entering Long at 1.03896
+Take Profit 1 hit at 1.04004
+Exiting Long at 1.04004
+Entering Long at 1.04088
+Take Profit 1 hit at 1.04206
+Exiting Long at 1.04206
+Entering Long at 1.04111
+Take Profit 1 hit at 1.04324
+Exiting Long at 1.04324
+Entering Long at 1.03998
+Take Profit 1 hit at 1.04124
+Exiting Long at 1.04124
+Entering Long at 1.03876
+Take Profit 1 hit at 1.04036
+Exiting Long at 1.04036
+Entering Long at 1.04132
+Take Profit 1 hit at 1.04238
+Exiting Long at 1.04238
+Entering Long at 1.04078
+Take Profit 1 hit at 1.04191
+Exiting Long at 1.04191
+Entering Long at 1.04066
+Take Profit 1 hit at 1.04173
+Exiting Long at 1.04173
+Entering Long at 1.04336
+Take Profit 1 hit at 1.04451
+Exiting Long at 1.04451
+Entering Long at 1.04353
+Take Profit 1 hit at 1.04464
+Exiting Long at 1.04464
+Entering Long at 1.04734
+Take Profit 1 hit at 1.04944
+Exiting Long at 1.04944
+Entering Long at 1.04871
+Take Profit 1 hit at 1.04986
+Exiting Long at 1.04986
+Entering Long at 1.04968
+Take Profit 1 hit at 1.05076
+Exiting Long at 1.05076
+Entering Long at 1.04978
+Take Profit 1 hit at 1.05088
+Exiting Long at 1.05088
+Entering Long at 1.05182
+Take Profit 1 hit at 1.05294
+Exiting Long at 1.05294
+Entering Long at 1.05211
+Take Profit 1 hit at 1.05327
+Exiting Long at 1.05327
+Entering Long at 1.05219
+Take Profit 1 hit at 1.05326
+Exiting Long at 1.05326
+Entering Long at 1.05197
+Take Profit 1 hit at 1.05305
+Exiting Long at 1.05305
+Entering Long at 1.05434
+Take Profit 1 hit at 1.05638
+Exiting Long at 1.05638
+Entering Long at 1.05584
+Take Profit 1 hit at 1.0569
+Exiting Long at 1.0569
+Entering Long at 1.05702
+Take Profit 1 hit at 1.05815
+Exiting Long at 1.05815
+Entering Long at 1.05752
+Take Profit 1 hit at 1.05932
+Exiting Long at 1.05932
+Entering Long at 1.05652
+Take Profit 1 hit at 1.05784
+Exiting Long at 1.05784
+Entering Long at 1.05744
+Take Profit 1 hit at 1.05874
+Exiting Long at 1.05874
+Entering Long at 1.05677
+Take Profit 1 hit at 1.05785
+Exiting Long at 1.05785
+Entering Long at 1.05466
+Take Profit 1 hit at 1.05584
+Exiting Long at 1.05584
+Entering Long at 1.05404
+Take Profit 1 hit at 1.05516
+Exiting Long at 1.05516
+Entering Long at 1.06302
+Take Profit 1 hit at 1.06414
+Exiting Long at 1.06414
+Entering Long at 1.06576
+Take Profit 1 hit at 1.06684
+Exiting Long at 1.06684
+Entering Long at 1.06504
+Take Profit 1 hit at 1.06612
+Exiting Long at 1.06612
+Entering Long at 1.06578
+Take Profit 1 hit at 1.06692
+Exiting Long at 1.06692
+Entering Long at 1.06948
+Take Profit 1 hit at 1.07074
+Exiting Long at 1.07074
+Entering Long at 1.06629
+Take Profit 1 hit at 1.06744
+Exiting Long at 1.06744
+Entering Long at 1.06452
+Take Profit 1 hit at 1.06568
+Exiting Long at 1.06568
+Entering Long at 1.06398
+Take Profit 1 hit at 1.0651
+Exiting Long at 1.0651
+Entering Long at 1.06467
+Take Profit 1 hit at 1.06577
+Exiting Long at 1.06577
+Entering Long at 1.0668
+Take Profit 1 hit at 1.06799
+Exiting Long at 1.06799
+Entering Long at 1.06694
+Take Profit 1 hit at 1.06806
+Exiting Long at 1.06806
+Entering Long at 1.06804
+Take Profit 1 hit at 1.06915
+Exiting Long at 1.06915
+Entering Long at 1.06638
+Take Profit 1 hit at 1.06774
+Exiting Long at 1.06774
+Entering Long at 1.06928
+Take Profit 1 hit at 1.07052
+Exiting Long at 1.07052
+Entering Long at 1.07012
+Take Profit 1 hit at 1.07135
+Exiting Long at 1.07135
+Entering Long at 1.07408
+Take Profit 1 hit at 1.07528
+Exiting Long at 1.07528
+Entering Long at 1.07396
+Take Profit 1 hit at 1.07516
+Exiting Long at 1.07516
+Entering Long at 1.07308
+Take Profit 1 hit at 1.0744
+Exiting Long at 1.0744
+Entering Long at 1.07218
+Take Profit 1 hit at 1.07354
+Exiting Long at 1.07354
+Entering Long at 1.07408
+Take Profit 1 hit at 1.07525
+Exiting Long at 1.07525
+Entering Long at 1.07402
+Take Profit 1 hit at 1.07511
+Exiting Long at 1.07511
+Entering Long at 1.07416
+Take Profit 1 hit at 1.07524
+Exiting Long at 1.07524
+Entering Long at 1.07526
+Take Profit 1 hit at 1.07634
+Exiting Long at 1.07634
+Entering Long at 1.07522
+Take Profit 1 hit at 1.07634
+Exiting Long at 1.07634
+Entering Long at 1.07614
+Take Profit 1 hit at 1.07728
+Exiting Long at 1.07728
+Entering Long at 1.07639
+Take Profit 1 hit at 1.08033
+Exiting Long at 1.08033
+Entering Long at 1.07396
+Take Profit 1 hit at 1.0756
+Exiting Long at 1.0756
+Entering Long at 1.08138
+Take Profit 1 hit at 1.08248
+Exiting Long at 1.08248
+Entering Long at 1.08434
+Take Profit 1 hit at 1.0856
+Exiting Long at 1.0856
+Entering Long at 1.08562
+Take Profit 1 hit at 1.08681
+Exiting Long at 1.08681
+Entering Long at 1.0865
+Take Profit 1 hit at 1.08807
+Exiting Long at 1.08807
+Entering Long at 1.08404
+Take Profit 1 hit at 1.08553
+Exiting Long at 1.08553
+Entering Long at 1.08346
+Take Profit 1 hit at 1.08458
+Exiting Long at 1.08458
+Entering Long at 1.0826
+Take Profit 1 hit at 1.08388
+Exiting Long at 1.08388
+Entering Long at 1.08356
+Take Profit 1 hit at 1.08476
+Exiting Long at 1.08476
+Entering Long at 1.0852
+Take Profit 1 hit at 1.08649
+Exiting Long at 1.08649
+Entering Long at 1.08622
+Take Profit 1 hit at 1.08742
+Exiting Long at 1.08742
+Entering Long at 1.0892
+Take Profit 1 hit at 1.09096
+Exiting Long at 1.09096
+Entering Long at 1.08961
+Take Profit 1 hit at 1.09074
+Exiting Long at 1.09074
+Entering Long at 1.09094
+Take Profit 1 hit at 1.09224
+Exiting Long at 1.09224
+Entering Long at 1.08827
+Take Profit 1 hit at 1.08936
+Exiting Long at 1.08936
+Entering Long at 1.08984
+Take Profit 1 hit at 1.09116
+Exiting Long at 1.09116
+Entering Long at 1.09072
+Take Profit 1 hit at 1.09184
+Exiting Long at 1.09184
+Entering Long at 1.09182
+Take Profit 1 hit at 1.09295
+Exiting Long at 1.09295
+Entering Long at 1.09128
+Take Profit 1 hit at 1.0924
+Exiting Long at 1.0924
+Entering Long at 1.09271
+Take Profit 1 hit at 1.09414
+Exiting Long at 1.09414
+Entering Long at 1.10132
+Take Profit 1 hit at 1.1025
+Exiting Long at 1.1025
+Entering Long at 1.10172
+Stop Loss hit, exiting Long at 1.06866
+Entering Long at 1.06903
+Take Profit 1 hit at 1.0701
+Exiting Long at 1.0701
+Entering Long at 1.07014
+Take Profit 1 hit at 1.07176
+Exiting Long at 1.07176
+Entering Long at 1.07206
+Take Profit 1 hit at 1.07315
+Exiting Long at 1.07315
+Entering Long at 1.07264
+Take Profit 1 hit at 1.07373
+Exiting Long at 1.07373
+Entering Long at 1.07302
+Take Profit 1 hit at 1.07418
+Exiting Long at 1.07418
+Entering Long at 1.07434
+Take Profit 1 hit at 1.07542
+Exiting Long at 1.07542
+Entering Long at 1.07609
+Take Profit 1 hit at 1.0772
+Exiting Long at 1.0772
+Entering Long at 1.07722
+Take Profit 1 hit at 1.07984
+Exiting Long at 1.07984
+Entering Long at 1.07094
+Take Profit 1 hit at 1.07274
+Exiting Long at 1.07274
+Entering Long at 1.07594
+Take Profit 1 hit at 1.0771
+Exiting Long at 1.0771
+Entering Long at 1.07666
+Take Profit 1 hit at 1.07782
+Exiting Long at 1.07782
+Entering Long at 1.07804
+Take Profit 1 hit at 1.07928
+Exiting Long at 1.07928
+Entering Long at 1.07878
+Take Profit 1 hit at 1.07996
+Exiting Long at 1.07996
+Entering Long at 1.079
+Take Profit 1 hit at 1.08344
+Exiting Long at 1.08344
+Entering Long at 1.08558
+Take Profit 1 hit at 1.08668
+Exiting Long at 1.08668
+Entering Long at 1.0908
+Take Profit 1 hit at 1.09194
+Exiting Long at 1.09194
+Entering Long at 1.09058
+Take Profit 1 hit at 1.09173
+Exiting Long at 1.09173
+Entering Long at 1.09118
+Take Profit 1 hit at 1.09233
+Exiting Long at 1.09233
+Entering Long at 1.09209
+Take Profit 1 hit at 1.09361
+Exiting Long at 1.09361
+Entering Long at 1.09484
+Take Profit 1 hit at 1.09594
+Exiting Long at 1.09594
+Entering Long at 1.09578
+Take Profit 1 hit at 1.0969
+Exiting Long at 1.0969
+Entering Long at 1.09575
+Take Profit 1 hit at 1.09796
+Exiting Long at 1.09796
+Entering Long at 1.09758
+Take Profit 1 hit at 1.09872
+Exiting Long at 1.09872
+Entering Long at 1.09916
+Take Profit 1 hit at 1.10028
+Exiting Long at 1.10028
+Entering Long at 1.09924
+Take Profit 1 hit at 1.10104
+Exiting Long at 1.10104
+Entering Long at 1.10158
+Take Profit 1 hit at 1.10396
+Exiting Long at 1.10396
+Entering Long at 1.10488
+Take Profit 1 hit at 1.10601
+Exiting Long at 1.10601
+Entering Long at 1.1061
+Take Profit 1 hit at 1.10732
+Exiting Long at 1.10732
+Entering Long at 1.10672
+Take Profit 1 hit at 1.1094
+Exiting Long at 1.1094
+Entering Long at 1.10591
+Take Profit 1 hit at 1.10706
+Exiting Long at 1.10706
+Entering Long at 1.1042
+Take Profit 1 hit at 1.10542
+Exiting Long at 1.10542
+Entering Long at 1.10588
+Take Profit 1 hit at 1.10703
+Exiting Long at 1.10703
+Entering Long at 1.1072
+Take Profit 1 hit at 1.10836
+Exiting Long at 1.10836
+Entering Long at 1.1076
+Stop Loss hit, exiting Long at 1.07432
+Entering Long at 1.07538
+Take Profit 1 hit at 1.07657
+Exiting Long at 1.07657
+Entering Long at 1.07631
+Take Profit 1 hit at 1.07758
+Exiting Long at 1.07758
+Entering Long at 1.07656
+Take Profit 1 hit at 1.07764
+Exiting Long at 1.07764
+Entering Long at 1.0765
+Take Profit 1 hit at 1.07768
+Exiting Long at 1.07768
+Entering Long at 1.07782
+Take Profit 1 hit at 1.07898
+Exiting Long at 1.07898
+Entering Long at 1.07724
+Take Profit 1 hit at 1.07839
+Exiting Long at 1.07839
+Entering Long at 1.07864
+Take Profit 1 hit at 1.07972
+Exiting Long at 1.07972
+Entering Long at 1.07994
+Take Profit 1 hit at 1.08138
+Exiting Long at 1.08138
+Entering Long at 1.07936
+Take Profit 1 hit at 1.08044
+Exiting Long at 1.08044
+Entering Long at 1.08044
+Take Profit 1 hit at 1.0817
+Exiting Long at 1.0817
+Entering Long at 1.08557
+Take Profit 1 hit at 1.0869
+Exiting Long at 1.0869
+Entering Long at 1.09456
+Take Profit 1 hit at 1.09569
+Exiting Long at 1.09569
+Entering Long at 1.09458
+Take Profit 1 hit at 1.09572
+Exiting Long at 1.09572
+Entering Long at 1.09536
+Take Profit 1 hit at 1.09658
+Exiting Long at 1.09658
+Entering Long at 1.0942
+Take Profit 1 hit at 1.09538
+Exiting Long at 1.09538
+Entering Long at 1.09855
+Take Profit 1 hit at 1.09985
+Exiting Long at 1.09985
+Entering Long at 1.09879
+Take Profit 1 hit at 1.09995
+Exiting Long at 1.09995
+Entering Long at 1.10014
+Take Profit 1 hit at 1.10129
+Exiting Long at 1.10129
+Entering Long at 1.10147
+Take Profit 1 hit at 1.1026
+Exiting Long at 1.1026
+Entering Long at 1.10082
+Take Profit 1 hit at 1.10193
+Exiting Long at 1.10193
+Entering Long at 1.10304
+Take Profit 1 hit at 1.10639
+Exiting Long at 1.10639
+Entering Long at 1.11347
+Take Profit 1 hit at 1.11476
+Exiting Long at 1.11476
+Entering Long at 1.11427
+Take Profit 1 hit at 1.11544
+Exiting Long at 1.11544
+Entering Long at 1.1141
+Take Profit 1 hit at 1.11542
+Exiting Long at 1.11542
+Entering Long at 1.1158
+Take Profit 1 hit at 1.11695
+Exiting Long at 1.11695
+Entering Long at 1.11621
+Take Profit 1 hit at 1.11738
+Exiting Long at 1.11738
+Entering Long at 1.11694
+Take Profit 1 hit at 1.11816
+Exiting Long at 1.11816
+Entering Long at 1.11888
+Take Profit 1 hit at 1.12028
+Exiting Long at 1.12028
+Entering Long at 1.12189
+Take Profit 1 hit at 1.12312
+Exiting Long at 1.12312
+Entering Long at 1.12364
+Take Profit 1 hit at 1.12488
+Exiting Long at 1.12488
+Entering Long at 1.12363
+Take Profit 1 hit at 1.12476
+Exiting Long at 1.12476
+Entering Long at 1.12506
+Take Profit 1 hit at 1.12632
+Exiting Long at 1.12632
+Entering Long at 1.1253
+Take Profit 1 hit at 1.12659
+Exiting Long at 1.12659
+Entering Long at 1.12543
+Stop Loss hit, exiting Long at 1.09145
+Entering Long at 1.09258
+Take Profit 1 hit at 1.09378
+Exiting Long at 1.09378
+Entering Long at 1.09257
+Take Profit 1 hit at 1.09368
+Exiting Long at 1.09368
+Entering Long at 1.09504
+Take Profit 1 hit at 1.09618
+Exiting Long at 1.09618
+Entering Long at 1.0951
+Take Profit 1 hit at 1.09728
+Exiting Long at 1.09728
+Entering Long at 1.10314
+Take Profit 1 hit at 1.10476
+Exiting Long at 1.10476
+Entering Long at 1.10141
+Take Profit 1 hit at 1.10278
+Exiting Long at 1.10278
+Entering Long at 1.0982
+Take Profit 1 hit at 1.09934
+Exiting Long at 1.09934
+Entering Long at 1.09874
+Take Profit 1 hit at 1.09986
+Exiting Long at 1.09986
+Entering Long at 1.09879
+Take Profit 1 hit at 1.1001
+Exiting Long at 1.1001
+Entering Long at 1.09884
+Take Profit 1 hit at 1.09999
+Exiting Long at 1.09999
+Entering Long at 1.09874
+Stop Loss hit, exiting Long at 1.06559
+Entering Long at 1.06416
+Take Profit 1 hit at 1.06526
+Exiting Long at 1.06526
+Entering Long at 1.06566
+Take Profit 1 hit at 1.06674
+Exiting Long at 1.06674
+Entering Long at 1.06607
+Take Profit 1 hit at 1.06715
+Exiting Long at 1.06715
+Entering Long at 1.06706
+Take Profit 1 hit at 1.0682
+Exiting Long at 1.0682
+Entering Long at 1.06864
+Take Profit 1 hit at 1.06974
+Exiting Long at 1.06974
+Entering Long at 1.06907
+Take Profit 1 hit at 1.07018
+Exiting Long at 1.07018
+Entering Long at 1.07056
+Take Profit 1 hit at 1.07169
+Exiting Long at 1.07169
+Entering Long at 1.07266
+2023-10-04T00:00:00, Final Portfolio Value: 692.2314074999969
+2023-10-04T00:00:00, Final PnL: -307.77
+Time used (seconds): 1315.6124794483185
+==================================================
+Number of strat runs: 1
+Number of strats per run: 1
+Strat names: ['MF_REDFLOW_STRATEGY']
+**************************************************
+--------------------------------------------------
+
+Strategy Parameters
+-------------------
+exchange            : None
+account             : None
+asset               : None
+amount              : None
+coin                : None
+collateral          : None
+debug               : False
+backtest            : True
+is_training         : None
+use_stoploss        : None
+channel             : 
+symbol              : 
+allow_short         : False
+short_max           : 1.5
+add_cash_amount     : 0
+add_cash_freq       : M
+invest_div          : True
+init_cash           : 1000
+buy_prop            : 1
+sell_prop           : 1
+fractional          : False
+slippage            : 0.001
+single_position     : None
+commission          : 0.00075
+stop_loss           : 0
+stop_trail          : 0
+take_profit         : 0.1
+percent_sizer       : 0.95
+stlen               : 7
+stmult              : 7.0
+stsmooth            : 5
+epstmult            : 3.0
+useep               : True
+tppct               : False
+tprsx               : True
+tpgap               : 0.1
+tpmax               : 0.1
+tpamt               : 0.3
+rlrsx               : True
+rlsfp               : True
+rsxsrc              : hlc3
+rsxlen              : 14
+rsxlkb              : 20
+rsxob               : 75
+rsxos               : 25
+rsxignpct           : 6
+stop_loss_pct       : 0.03
+
+Returns
+-------
+rtot                : -0.3678349753632607
+ravg                : -0.00010957252766257394
+rnorm               : -0.027234542737178048
+rnorm100            : -2.7234542737178047
+
+Sharpe
+------
+sharperatio         : -2.531109304516483
+
+Drawdown
+--------
+len                 : 3915253
+drawdown            : 30.783256330666983
+moneydown           : 307.8610135000032
+max                 : AutoOrderedDict({'len': 3915253, 'drawdown': 30.80225457483025, 'moneydown': 308.05101350000314})
+
+Timedraw
+--------
+maxdrawdown         : 30.776859250000314
+maxdrawdownperiod   : 3356
+
+Optimal Parameters:
+--------------------
+exchange            : None
+account             : None
+asset               : None
+amount              : None
+coin                : None
+collateral          : None
+debug               : False
+backtest            : True
+is_training         : None
+use_stoploss        : None
+channel             : 
+symbol              : 
+allow_short         : False
+short_max           : 1.5
+add_cash_amount     : 0
+add_cash_freq       : M
+invest_div          : True
+init_cash           : 1000
+buy_prop            : 1
+sell_prop           : 1
+fractional          : False
+slippage            : 0.001
+single_position     : None
+commission          : 0.00075
+stop_loss           : 0
+stop_trail          : 0
+take_profit         : 0.1
+percent_sizer       : 0.95
+stlen               : 7
+stmult              : 7.0
+stsmooth            : 5
+epstmult            : 3.0
+useep               : True
+tppct               : False
+tprsx               : True
+tpgap               : 0.1
+tpmax               : 0.1
+tpamt               : 0.3
+rlrsx               : True
+rlsfp               : True
+rsxsrc              : hlc3
+rsxlen              : 14
+rsxlkb              : 20
+rsxob               : 75
+rsxos               : 25
+rsxignpct           : 6
+stop_loss_pct       : 0.03
+
+Optimal Metrics:
+--------------------
+rtot                          : -0.3678349753632607
+ravg                          : -0.00010957252766257394
+rnorm                         : -0.027234542737178048
+rnorm100                      : -2.7234542737178047
+len                           : 3915253
+drawdown                      : 30.783256330666983
+moneydown                     : 307.8610135000032
+max                           : AutoOrderedDict({'len': 3915253, 'drawdown': 30.80225457483025, 'moneydown': 308.05101350000314})
+maxdrawdown                   : 30.776859250000314
+maxdrawdownperiod             : 3356
+sharperatio                   : -2.531109304516483
+pnl                           : -307.77
+final_value                   : 692.2314074999969
+total                         : 1718
+win_rate                      : 0.09953434225844005
+won                           : 171
+lost                          : 1546
+won_avg                       : 0.04839929970760189
+won_avg_prcnt                 : 0.004839929970760188
+lost_avg                      : -0.2027053190491589
+lost_avg_prcnt                : -0.020270531904915887
+won_max                       : 0.30821349999999226
+won_max_prcnt                 : 0.030821349999999227
+lost_max                      : -4.490837249999997
+lost_max_prcnt                : -0.44908372499999966
