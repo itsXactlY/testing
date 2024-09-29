@@ -21,12 +21,11 @@ setuptools.setup(
     long_description_content_type="text/markdown",
     url="https://github.com/enzoampil/fastquant",
     packages=setuptools.find_packages(where="python", exclude=["docs", "tests"]),
-    package_dir={"": "python"},
     package_data={"fastquant": ["data/*"]},
     include_package_data=True,
     scripts=[
-        os.path.join("python", "scripts", "get_disclosures"),
-        os.path.join("python", "scripts", "update_cache")
+        os.path.join("scripts", "get_disclosures"),
+        os.path.join("scripts", "update_cache")
     ],
     classifiers=[
         "Programming Language :: Python :: 3",
