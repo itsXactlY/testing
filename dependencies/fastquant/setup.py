@@ -14,7 +14,7 @@ setuptools.setup(
     packages=setuptools.find_packages(exclude=["docs", "tests"]),
     package_data={"fastquant": ["data/*"]},
     include_package_data=True,
-    scripts=["get_disclosures", "update_cache"],  # Adjust path if needed
+    # scripts=["get_disclosures", "update_cache"],  # Adjust path if needed
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: GNU General Public License v3 (GPLv3)",
