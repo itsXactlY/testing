@@ -109,6 +109,7 @@ setuptools.setup(
     # project is installed.
     install_requires=[
         'pybind11',  # Include pybind11 here
+        'Web3'
         # Add other dependencies as needed
     ],
 
